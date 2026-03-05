@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KBaGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98250249
+_cell_length_b   6.41663420
+_cell_length_c   5.83417110
+_cell_angle_alpha   64.03379113
+_cell_angle_beta   67.04454795
+_cell_angle_gamma   73.81665328
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaGaO3
+_chemical_formula_sum   'K2 Ba2 Ga2 O6'
+_cell_volume   214.54974727
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.70958278  0.44581807  0.16371756  1
+  K  K1  1  0.29040336  0.55417738  0.83629273  1
+  Ba  Ba2  1  0.17147967  0.19431245  0.56662193  1
+  Ba  Ba3  1  0.82852255  0.80568867  0.43337793  1
+  Ga  Ga4  1  0.31210301  0.92387928  0.13605064  1
+  Ga  Ga5  1  0.68789908  0.07612162  0.86394303  1
+  O  O6  1  0.08298263  0.15011180  0.13577367  1
+  O  O7  1  0.50507603  0.01879043  0.22218847  1
+  O  O8  1  0.25703230  0.62265220  0.32389360  1
+  O  O9  1  0.74296866  0.37734826  0.67610608  1
+  O  O10  1  0.49492645  0.98120791  0.77781219  1
+  O  O11  1  0.91701948  0.84988993  0.86422216  1

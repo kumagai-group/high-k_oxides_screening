@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Na6Mg(BiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18288959
+_cell_length_b   6.23261766
+_cell_length_c   6.71786872
+_cell_angle_alpha   90.44114995
+_cell_angle_beta   90.95556607
+_cell_angle_gamma   113.51966970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6Mg(BiO4)2
+_chemical_formula_sum   'Na6 Mg1 Bi2 O8'
+_cell_volume   237.30821603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.76979088  0.99658691  0.37560141  1
+  Na  Na1  1  0.24063934  0.52531184  0.33290444  1
+  Na  Na2  1  0.72452035  0.51003918  0.12739258  1
+  Na  Na3  1  0.19600148  0.53458282  0.92224673  1
+  Na  Na4  1  0.27651158  0.89164593  0.62010145  1
+  Na  Na5  1  0.82151921  0.52764621  0.59053238  1
+  Mg  Mg6  1  0.35316108  0.34279689  0.64536832  1
+  Bi  Bi7  1  0.76921969  0.99338394  0.85294653  1
+  Bi  Bi8  1  0.25158169  0.01785823  0.13912730  1
+  O  O9  1  0.01215207  0.26987598  0.64143997  1
+  O  O10  1  0.51924375  0.68880334  0.63820489  1
+  O  O11  1  0.02829851  0.76846272  0.33969282  1
+  O  O12  1  0.45891077  0.24487462  0.38555569  1
+  O  O13  1  0.46345623  0.22818958  0.89143024  1
+  O  O14  1  0.00167088  0.79216835  0.89457472  1
+  O  O15  1  0.02785841  0.20926230  0.12054154  1
+  O  O16  1  0.47088206  0.82309417  0.12122798  1

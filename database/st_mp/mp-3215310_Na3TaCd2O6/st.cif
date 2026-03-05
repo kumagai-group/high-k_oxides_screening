@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na3TaCd2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.80803527
+_cell_length_b   10.27669127
+_cell_length_c   5.71739318
+_cell_angle_alpha   79.46503407
+_cell_angle_beta   69.19751250
+_cell_angle_gamma   31.33746045
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3TaCd2O6
+_chemical_formula_sum   'Na6 Ta2 Cd4 O12'
+_cell_volume   299.10394581
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na1  1  0.08754844  0.08754844  0.41245156  1
+  Na  Na2  1  0.83754844  0.83754844  0.16245156  1
+  Na  Na3  1  0.16245156  0.16245156  0.83754844  1
+  Na  Na4  1  0.25000000  0.25000000  0.25000000  1
+  Na  Na5  1  0.41245156  0.41245156  0.08754844  1
+  Ta  Ta6  1  0.75000000  0.75000000  0.75000000  1
+  Ta  Ta7  1  0.50000000  0.50000000  0.50000000  1
+  Cd  Cd8  1  0.58134420  0.58134420  0.91865580  1
+  Cd  Cd9  1  0.91865580  0.91865580  0.58134420  1
+  Cd  Cd10  1  0.66865580  0.66865580  0.33134420  1
+  Cd  Cd11  1  0.33134420  0.33134420  0.66865580  1
+  O  O12  1  0.28516990  0.71483010  0.28516990  1
+  O  O13  1  0.71483010  0.28516990  0.71483010  1
+  O  O14  1  0.96483010  0.53516990  0.96483010  1
+  O  O15  1  0.53516990  0.96483010  0.53516990  1
+  O  O16  1  0.20545575  0.64770391  0.79060706  1
+  O  O17  1  0.35623328  0.79060706  0.64770391  1
+  O  O18  1  0.79060706  0.35623328  0.20545575  1
+  O  O19  1  0.64770391  0.20545575  0.35623328  1
+  O  O20  1  0.60229609  0.04454425  0.89376672  1
+  O  O21  1  0.89376672  0.45939294  0.60229609  1
+  O  O22  1  0.45939294  0.89376672  0.04454425  1
+  O  O23  1  0.04454425  0.60229609  0.45939294  1

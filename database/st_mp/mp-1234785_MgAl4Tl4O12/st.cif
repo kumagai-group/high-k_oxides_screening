@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_MgAl4Tl4O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74898868
+_cell_length_b   5.92388915
+_cell_length_c   8.44897557
+_cell_angle_alpha   85.36383228
+_cell_angle_beta   81.97143297
+_cell_angle_gamma   84.31586802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAl4Tl4O12
+_chemical_formula_sum   'Mg1 Al4 Tl4 O12'
+_cell_volume   282.86411224
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.30901000  0.25798000  0.17229300  1
+  Al  Al1  1  0.82862700  0.42155700  0.94208500  1
+  Al  Al2  1  0.95008200  0.52934800  0.51617300  1
+  Al  Al3  1  0.59488300  0.93149700  0.91375700  1
+  Al  Al4  1  0.62492900  0.08211100  0.49586100  1
+  Tl  Tl5  1  0.09889800  0.98201600  0.71094400  1
+  Tl  Tl6  1  0.39723900  0.46431800  0.78308900  1
+  Tl  Tl7  1  0.48059900  0.65949400  0.36131200  1
+  Tl  Tl8  1  0.00046700  0.88018900  0.16747200  1
+  O  O9  1  0.18042900  0.50725600  0.31186200  1
+  O  O10  1  0.35252700  0.20694100  0.61364900  1
+  O  O11  1  0.11829200  0.32746100  0.97987200  1
+  O  O12  1  0.32171500  0.82221400  0.89418400  1
+  O  O13  1  0.19804400  0.65988200  0.59228700  1
+  O  O14  1  0.45242100  0.03799900  0.32921600  1
+  O  O15  1  0.73150000  0.99968000  0.71573200  1
+  O  O16  1  0.60857300  0.20838500  0.99997400  1
+  O  O17  1  0.77820000  0.32989200  0.43611800  1
+  O  O18  1  0.72613400  0.69101800  0.02498400  1
+  O  O19  1  0.77744600  0.79074900  0.45628700  1
+  O  O20  1  0.80748700  0.47251300  0.73284900  1

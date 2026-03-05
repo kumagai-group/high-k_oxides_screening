@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ta2CdPbO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45310394
+_cell_length_b   7.38692135
+_cell_length_c   7.45310450
+_cell_angle_alpha   60.29331304
+_cell_angle_beta   60.34074183
+_cell_angle_gamma   60.29331581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2CdPbO7
+_chemical_formula_sum   'Ta4 Cd2 Pb2 O14'
+_cell_volume   292.17960884
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.12500000  0.62500000  0.12500000  1
+  Ta  Ta1  1  0.12500000  0.12500000  0.62500000  1
+  Ta  Ta2  1  0.62500000  0.12500000  0.12500000  1
+  Ta  Ta3  1  0.12500000  0.12500000  0.12500000  1
+  Cd  Cd4  1  0.62500000  0.62500000  0.62500000  1
+  Cd  Cd5  1  0.62500000  0.12500000  0.62500000  1
+  Pb  Pb6  1  0.12500000  0.62500000  0.62500000  1
+  Pb  Pb7  1  0.62500000  0.62500000  0.12500000  1
+  O  O8  1  0.72502807  0.77497193  0.72502807  1
+  O  O9  1  0.18768147  0.80926217  0.81145905  1
+  O  O10  1  0.19211639  0.80788361  0.19211639  1
+  O  O11  1  0.81424803  0.18575197  0.81424803  1
+  O  O12  1  0.18768147  0.19159831  0.81145905  1
+  O  O13  1  0.81145905  0.80926217  0.18768147  1
+  O  O14  1  0.43854095  0.05840169  0.06231853  1
+  O  O15  1  0.81145905  0.19159831  0.18768147  1
+  O  O16  1  0.05788361  0.44211639  0.05788361  1
+  O  O17  1  0.06231853  0.05840169  0.43854095  1
+  O  O18  1  0.43854095  0.44073783  0.06231853  1
+  O  O19  1  0.43575197  0.06424803  0.43575197  1
+  O  O20  1  0.06231853  0.44073783  0.43854095  1
+  O  O21  1  0.52497193  0.47502807  0.52497193  1

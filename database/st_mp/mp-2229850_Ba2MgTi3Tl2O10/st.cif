@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2MgTi3Tl2O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98878612
+_cell_length_b   4.13296687
+_cell_length_c   17.00857934
+_cell_angle_alpha   82.71429466
+_cell_angle_beta   84.99530913
+_cell_angle_gamma   90.00829057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2MgTi3Tl2O10
+_chemical_formula_sum   'Ba2 Mg1 Ti3 Tl2 O10'
+_cell_volume   277.05322743
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.14732002  0.05680423  0.23882762  1
+  Ba  Ba1  1  0.78957460  0.74370131  0.74687028  1
+  Mg  Mg2  1  0.59892596  0.46640163  0.36124900  1
+  Ti  Ti3  1  0.21766699  0.17953856  0.86112890  1
+  Ti  Ti4  1  0.69166282  0.64788842  0.12497487  1
+  Ti  Ti5  1  0.25634852  0.57330589  0.99320167  1
+  Tl  Tl6  1  0.82651719  0.89413742  0.47473959  1
+  Tl  Tl7  1  0.36747885  0.33042172  0.59295048  1
+  O  O8  1  0.25868557  0.68580771  0.87690910  1
+  O  O9  1  0.31217139  0.25197220  0.74776684  1
+  O  O10  1  0.77552393  0.19051804  0.85585277  1
+  O  O11  1  0.03415779  0.83301243  0.59318800  1
+  O  O12  1  0.72639557  0.62240513  0.01124245  1
+  O  O13  1  0.19231856  0.58920238  0.11386882  1
+  O  O14  1  0.64496116  0.52789137  0.24370725  1
+  O  O15  1  0.68585838  0.06946231  0.13505713  1
+  O  O16  1  0.09842166  0.43852077  0.37927569  1
+  O  O17  1  0.24314405  0.15104548  0.97954453  1

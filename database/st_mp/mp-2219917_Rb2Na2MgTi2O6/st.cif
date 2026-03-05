@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Rb2Na2MgTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65382725
+_cell_length_b   6.31200978
+_cell_length_c   6.96882882
+_cell_angle_alpha   56.56957139
+_cell_angle_beta   94.47401032
+_cell_angle_gamma   96.41562506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Na2MgTi2O6
+_chemical_formula_sum   'Rb2 Na2 Mg1 Ti2 O6'
+_cell_volume   206.21080600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.29812370  0.25074426  0.48286204  1
+  Rb  Rb1  1  0.70170045  0.75372806  0.65869740  1
+  Na  Na2  1  0.23250610  0.56142992  0.84407839  1
+  Na  Na3  1  0.78720864  0.31298322  0.17563982  1
+  Mg  Mg4  1  0.88670011  0.62873265  0.34839081  1
+  Ti  Ti5  1  0.76622225  0.06211033  0.90648354  1
+  Ti  Ti6  1  0.30013074  0.93941449  0.09257493  1
+  O  O7  1  0.03156093  0.18416820  0.01172552  1
+  O  O8  1  0.45484547  0.83774457  0.92448014  1
+  O  O9  1  0.79421906  0.25722500  0.56764379  1
+  O  O10  1  0.96939122  0.75931645  0.02573016  1
+  O  O11  1  0.52524899  0.24188411  0.94941706  1
+  O  O12  1  0.21642832  0.74176874  0.40810941  1

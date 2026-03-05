@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MgNb2Al2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80848601
+_cell_length_b   6.82741054
+_cell_length_c   6.65045574
+_cell_angle_alpha   108.89692045
+_cell_angle_beta   89.99986182
+_cell_angle_gamma   106.18949561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNb2Al2O8
+_chemical_formula_sum   'Mg1 Nb2 Al2 O8'
+_cell_volume   156.33994255
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.31033600  0.62095500  0.48371200  1
+  Nb  Nb1  1  0.09330500  0.18698800  0.18008000  1
+  Nb  Nb2  1  0.91126000  0.82285100  0.84048100  1
+  Al  Al3  1  0.79383200  0.58797300  0.17284000  1
+  Al  Al4  1  0.19272200  0.38551800  0.79107600  1
+  O  O5  1  0.36564700  0.73159500  0.80784500  1
+  O  O6  1  0.63649600  0.27320800  0.17277000  1
+  O  O7  1  0.73789400  0.47598500  0.86480900  1
+  O  O8  1  0.26838900  0.53702900  0.16238400  1
+  O  O9  1  0.85045500  0.70120300  0.48239800  1
+  O  O10  1  0.16113800  0.32220800  0.50703700  1
+  O  O11  1  0.93461400  0.86956700  0.16035800  1
+  O  O12  1  0.06534200  0.13075300  0.84421000  1

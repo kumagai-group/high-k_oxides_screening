@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MgTiSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55642554
+_cell_length_b   7.55642505
+_cell_length_c   7.55642615
+_cell_angle_alpha   154.74199026
+_cell_angle_beta   149.44338622
+_cell_angle_gamma   40.04647968
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiSnO4
+_chemical_formula_sum   'Mg1 Ti1 Sn1 O4'
+_cell_volume   93.42187346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.42396627  0.42396627  1.00000000  1
+  Ti  Ti1  1  0.77490764  0.27490764  0.50000000  1
+  Sn  Sn2  1  0.07263957  0.07263957  1.00000000  1
+  O  O3  1  0.50577752  0.00577752  0.50000000  1
+  O  O4  1  0.28204191  0.28204191  1.00000000  1
+  O  O5  1  0.90798345  0.40798345  0.50000000  1
+  O  O6  1  0.70976665  0.70976665  0.00000000  1

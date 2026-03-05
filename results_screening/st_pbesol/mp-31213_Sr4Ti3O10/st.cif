@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Sr4Ti3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90638459
+_cell_length_b   3.90638348
+_cell_length_c   14.30111176
+_cell_angle_alpha   97.84976398
+_cell_angle_beta   97.84976264
+_cell_angle_gamma   90.00000303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Ti3O10
+_chemical_formula_sum   'Sr4 Ti3 O10'
+_cell_volume   214.12323736
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.56851192  0.56851192  0.13702585  1
+  Sr  Sr1  1  0.43148808  0.43148808  0.86297415  1
+  Sr  Sr2  1  0.29781128  0.29781128  0.59562154  1
+  Sr  Sr3  1  0.70218872  0.70218872  0.40437846  1
+  Ti  Ti4  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti5  1  0.85949366  0.85949366  0.71898731  1
+  Ti  Ti6  1  0.14050634  0.14050634  0.28101269  1
+  O  O7  1  0.13911964  0.63911964  0.27824127  1
+  O  O8  1  0.78996393  0.78996393  0.57992886  1
+  O  O9  1  0.21003607  0.21003607  0.42007114  1
+  O  O10  1  0.50000000  0.00000000  0.00000000  1
+  O  O11  1  0.00000000  0.50000000  0.00000000  1
+  O  O12  1  0.06967600  0.06967600  0.13935401  1
+  O  O13  1  0.93032400  0.93032400  0.86064599  1
+  O  O14  1  0.63911964  0.13911964  0.27824127  1
+  O  O15  1  0.36088036  0.86088036  0.72175873  1
+  O  O16  1  0.86088036  0.36088036  0.72175873  1

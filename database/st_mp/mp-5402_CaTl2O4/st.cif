@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaTl2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79332157
+_cell_length_b   5.79332157
+_cell_length_c   10.51272560
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.48940102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTl2O4
+_chemical_formula_sum   'Ca2 Tl4 O8'
+_cell_volume   194.79663564
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.10912595  0.89087405  0.25000000  1
+  Ca  Ca1  1  0.89087405  0.10912595  0.75000000  1
+  Tl  Tl2  1  0.63447416  0.36552584  0.57189673  1
+  Tl  Tl3  1  0.36552584  0.63447416  0.42810327  1
+  Tl  Tl4  1  0.36552584  0.63447416  0.07189673  1
+  Tl  Tl5  1  0.63447416  0.36552584  0.92810327  1
+  O  O6  1  0.46178644  0.53821356  0.25000000  1
+  O  O7  1  0.53821356  0.46178644  0.75000000  1
+  O  O8  1  0.00000000  -0.00000000  0.50000000  1
+  O  O9  1  0.00000000  -0.00000000  -0.00000000  1
+  O  O10  1  0.71975383  0.28024617  0.11704000  1
+  O  O11  1  0.28024617  0.71975383  0.88296000  1
+  O  O12  1  0.71975383  0.28024617  0.38296000  1
+  O  O13  1  0.28024617  0.71975383  0.61704000  1

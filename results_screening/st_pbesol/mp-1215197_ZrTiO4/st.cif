@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73745245
+_cell_length_b   5.09081596
+_cell_length_c   5.63475470
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiO4
+_chemical_formula_sum   'Zr2 Ti2 O8'
+_cell_volume   135.89618844
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.50000000  0.42128548  1
+  Zr  Zr1  1  0.50000000  0.00000000  0.57871452  1
+  Ti  Ti2  1  0.00000000  0.00000000  0.07233552  1
+  Ti  Ti3  1  0.50000000  0.50000000  0.92766448  1
+  O  O4  1  0.73582374  0.17727457  0.87400703  1
+  O  O5  1  0.76417626  0.67727457  0.12599297  1
+  O  O6  1  0.23582374  0.32272543  0.12599297  1
+  O  O7  1  0.26417626  0.82272543  0.87400703  1
+  O  O8  1  0.28254572  0.33955149  0.64868555  1
+  O  O9  1  0.21745428  0.83955149  0.35131445  1
+  O  O10  1  0.78254572  0.16044851  0.35131445  1
+  O  O11  1  0.71745428  0.66044851  0.64868555  1

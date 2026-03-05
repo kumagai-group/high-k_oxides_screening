@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ta4CdHg3O14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37767146
+_cell_length_b   7.37767132
+_cell_length_c   7.44204578
+_cell_angle_alpha   60.28573131
+_cell_angle_beta   60.28573471
+_cell_angle_gamma   60.00000029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4CdHg3O14
+_chemical_formula_sum   'Ta4 Cd1 Hg3 O14'
+_cell_volume   287.65913475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.62500000  0.62500000  0.62500000  1
+  Ta  Ta1  1  0.12500000  0.62500000  0.62500000  1
+  Ta  Ta2  1  0.62500000  0.62500000  0.12500000  1
+  Ta  Ta3  1  0.62500000  0.12500000  0.62500000  1
+  Cd  Cd4  1  0.12500000  0.12500000  0.62500000  1
+  Hg  Hg5  1  0.12500000  0.12500000  0.12500000  1
+  Hg  Hg6  1  0.62500000  0.12500000  0.12500000  1
+  Hg  Hg7  1  0.12500000  0.62500000  0.12500000  1
+  O  O8  1  0.56097445  0.56097445  0.93801572  1
+  O  O9  1  0.30819135  0.30819135  0.68743139  1
+  O  O10  1  0.94003537  0.56097445  0.93801572  1
+  O  O11  1  0.94180865  0.55381508  0.56256861  1
+  O  O12  1  0.56097445  0.94003537  0.93801572  1
+  O  O13  1  0.55381508  0.94180865  0.56256861  1
+  O  O14  1  0.30996463  0.68902555  0.31198428  1
+  O  O15  1  0.69618492  0.30819135  0.68743139  1
+  O  O16  1  0.25102613  0.25102613  0.24692161  1
+  O  O17  1  0.99897387  0.99897387  0.00307839  1
+  O  O18  1  0.94180865  0.94180865  0.56256861  1
+  O  O19  1  0.68902555  0.30996463  0.31198428  1
+  O  O20  1  0.30819135  0.69618492  0.68743139  1
+  O  O21  1  0.68902555  0.68902555  0.31198428  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Hg2GeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10385473
+_cell_length_b   6.73428451
+_cell_length_c   6.55948717
+_cell_angle_alpha   75.10797800
+_cell_angle_beta   53.42581523
+_cell_angle_gamma   51.46620676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2GeO4
+_chemical_formula_sum   'Hg4 Ge2 O8'
+_cell_volume   221.13475202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.43430700  0.81446000  0.44469400  1
+  Hg  Hg1  1  0.80381200  0.44167400  0.81621000  1
+  Hg  Hg2  1  0.55874700  0.19628500  0.56106700  1
+  Hg  Hg3  1  0.19445000  0.55401200  0.18540500  1
+  Ge  Ge4  1  0.13120700  0.12499000  0.12493300  1
+  Ge  Ge5  1  0.87651600  0.87068200  0.86829300  1
+  O  O6  1  0.28643000  0.80386800  0.15960700  1
+  O  O7  1  0.25210700  0.16282300  0.78889600  1
+  O  O8  1  0.15490800  0.25420900  0.29148500  1
+  O  O9  1  0.78964200  0.28674100  0.25508900  1
+  O  O10  1  0.71207900  0.20138700  0.84489000  1
+  O  O11  1  0.74197400  0.84670600  0.20701800  1
+  O  O12  1  0.20948100  0.71492200  0.74042200  1
+  O  O13  1  0.84609100  0.74323800  0.70864000  1

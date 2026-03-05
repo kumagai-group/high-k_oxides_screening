@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76289956
+_cell_length_b   5.27924040
+_cell_length_c   6.50885011
+_cell_angle_alpha   71.09044377
+_cell_angle_beta   73.19655055
+_cell_angle_gamma   69.13566473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTi2O6
+_chemical_formula_sum   'Ce1 Ti2 O6'
+_cell_volume   112.07325132
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000010  0.49999979  0.49999965  1
+  Ti  Ti1  1  0.17740609  0.75622755  0.88939029  1
+  Ti  Ti2  1  0.82259416  0.24377278  0.11060907  1
+  O  O3  1  0.02280667  0.14581630  0.80826308  1
+  O  O4  1  0.97719310  0.85418385  0.19173619  1
+  O  O5  1  0.34876488  0.70170167  0.60096242  1
+  O  O6  1  0.65123493  0.29829800  0.39903761  1
+  O  O7  1  0.72186018  0.65320930  0.90321343  1
+  O  O8  1  0.27813989  0.34678976  0.09678726  1

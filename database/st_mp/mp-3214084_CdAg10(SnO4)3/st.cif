@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CdAg10(SnO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58834039
+_cell_length_b   8.58833994
+_cell_length_c   5.76827202
+_cell_angle_alpha   70.26570084
+_cell_angle_beta   70.26569405
+_cell_angle_gamma   71.58069556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdAg10(SnO4)3
+_chemical_formula_sum   'Cd1 Ag10 Sn3 O12'
+_cell_volume   367.03290823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.41529669  0.58470331  1.00000000  1
+  Ag  Ag1  1  0.25136076  0.24720674  0.00668877  1
+  Ag  Ag2  1  0.74801700  0.75183007  0.49208210  1
+  Ag  Ag3  1  0.24816993  0.25198300  0.50791790  1
+  Ag  Ag4  1  0.75279326  0.74863924  0.99331123  1
+  Ag  Ag5  1  0.49983152  0.00257441  0.75149094  1
+  Ag  Ag6  1  0.99742559  0.50016848  0.24850906  1
+  Ag  Ag7  1  0.12873979  0.61410362  0.62732359  1
+  Ag  Ag8  1  0.60212867  0.11075693  0.14180773  1
+  Ag  Ag9  1  0.38589638  0.87126021  0.37267641  1
+  Ag  Ag10  1  0.88924307  0.39787133  0.85819227  1
+  Sn  Sn11  1  0.91642086  0.08357914  0.50000000  1
+  Sn  Sn12  1  0.58630882  0.41369118  0.50000000  1
+  Sn  Sn13  1  0.07906582  0.92093418  1.00000000  1
+  O  O14  1  0.66562627  0.52418477  0.69283531  1
+  O  O15  1  0.14270023  0.03460709  0.22175832  1
+  O  O16  1  0.54745096  0.64365759  0.23086878  1
+  O  O17  1  0.02651948  0.14977396  0.71778170  1
+  O  O18  1  0.32468379  0.86705055  0.78936811  1
+  O  O19  1  0.84445567  0.33285759  0.29371383  1
+  O  O20  1  0.35634241  0.45254904  0.76913122  1
+  O  O21  1  0.85022604  0.97348052  0.28221830  1
+  O  O22  1  0.47581523  0.33437373  0.30716469  1
+  O  O23  1  0.96539291  0.85729977  0.77824168  1
+  O  O24  1  0.66714241  0.15554433  0.70628617  1
+  O  O25  1  0.13294945  0.67531621  0.21063189  1

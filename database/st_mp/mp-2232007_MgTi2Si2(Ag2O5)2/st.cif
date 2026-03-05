@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_MgTi2Si2(Ag2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38808292
+_cell_length_b   6.49228917
+_cell_length_c   6.49228917
+_cell_angle_alpha   89.58925555
+_cell_angle_beta   87.01141205
+_cell_angle_gamma   92.98858795
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2Si2(Ag2O5)2
+_chemical_formula_sum   'Mg1 Ti2 Si2 Ag4 O10'
+_cell_volume   310.54460552
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.74508325  0.78139964  0.71860036  1
+  Ti  Ti1  1  0.95890026  0.50236945  0.99763055  1
+  Ti  Ti2  1  0.08581099  0.01450479  0.48549521  1
+  Si  Si3  1  0.01609272  0.50531008  0.49190946  1
+  Si  Si4  1  0.01609272  0.00809054  0.99468992  1
+  Ag  Ag5  1  0.68465174  0.19154863  0.30845137  1
+  Ag  Ag6  1  0.36873868  0.73044556  0.76955444  1
+  Ag  Ag7  1  0.44920005  0.83824952  0.35165066  1
+  Ag  Ag8  1  0.44920005  0.14834934  0.66175048  1
+  O  O9  1  0.88621087  0.50015633  0.29225966  1
+  O  O10  1  0.87331300  0.51756306  0.69901870  1
+  O  O11  1  0.15103058  0.01181363  0.78489888  1
+  O  O12  1  0.14097102  0.00310771  0.19470534  1
+  O  O13  1  0.15103058  0.71510112  0.48818637  1
+  O  O14  1  0.14097102  0.30529466  0.49689229  1
+  O  O15  1  0.88621087  0.20774034  0.99984367  1
+  O  O16  1  0.87331300  0.80098130  0.98243694  1
+  O  O17  1  0.18965357  0.52579470  0.97420530  1
+  O  O18  1  0.85019204  0.98217959  0.51782041  1

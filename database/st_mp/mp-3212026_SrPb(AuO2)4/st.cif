@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrPb(AuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75813645
+_cell_length_b   6.75813695
+_cell_length_c   6.75813754
+_cell_angle_alpha   124.94775025
+_cell_angle_beta   124.94775123
+_cell_angle_gamma   81.62458700
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPb(AuO2)4
+_chemical_formula_sum   'Sr1 Pb1 Au4 O8'
+_cell_volume   199.58372388
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb1  1  0.75000000  0.25000000  0.50000000  1
+  Au  Au2  1  0.37457647  0.62539870  0.24998826  1
+  Au  Au3  1  0.87541279  0.62542353  0.25082323  1
+  Au  Au4  1  0.37541043  0.12458721  0.75001174  1
+  Au  Au5  1  0.37460130  0.62458957  0.74917677  1
+  O  O6  1  0.57791393  0.94624953  0.92695097  1
+  O  O7  1  0.70005941  0.26833618  0.87384478  1
+  O  O8  1  0.39449140  0.82621462  0.12615522  1
+  O  O9  1  0.01929956  0.65096297  0.07304903  1
+  O  O10  1  0.17378538  0.29994059  0.56827577  1
+  O  O11  1  0.05375047  0.98070044  0.63166441  1
+  O  O12  1  0.73166382  0.60550860  0.43172423  1
+  O  O13  1  0.34903703  0.42208607  0.36833559  1

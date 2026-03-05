@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_SrTa4Cd3O14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37387042
+_cell_length_b   7.37387049
+_cell_length_c   7.44035479
+_cell_angle_alpha   60.29514966
+_cell_angle_beta   60.29514779
+_cell_angle_gamma   60.00000252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTa4Cd3O14
+_chemical_formula_sum   'Sr1 Ta4 Cd3 O14'
+_cell_volume   287.33781683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.12500000  0.12500000  0.62500000  1
+  Ta  Ta1  1  0.62500000  0.62500000  0.62500000  1
+  Ta  Ta2  1  0.12500000  0.62500000  0.62500000  1
+  Ta  Ta3  1  0.62500000  0.62500000  0.12500000  1
+  Ta  Ta4  1  0.62500000  0.12500000  0.62500000  1
+  Cd  Cd5  1  0.12500000  0.12500000  0.12500000  1
+  Cd  Cd6  1  0.62500000  0.12500000  0.12500000  1
+  Cd  Cd7  1  0.12500000  0.62500000  0.12500000  1
+  O  O8  1  0.56023293  0.56023293  0.93863283  1
+  O  O9  1  0.30780172  0.30780172  0.68995817  1
+  O  O10  1  0.94090130  0.56023293  0.93863283  1
+  O  O11  1  0.94219828  0.55556061  0.56004183  1
+  O  O12  1  0.56023293  0.94090130  0.93863283  1
+  O  O13  1  0.55556061  0.94219828  0.56004183  1
+  O  O14  1  0.30909870  0.68976707  0.31136717  1
+  O  O15  1  0.69443939  0.30780172  0.68995817  1
+  O  O16  1  0.26166861  0.26166861  0.21499516  1
+  O  O17  1  0.98833139  0.98833139  0.03500484  1
+  O  O18  1  0.94219828  0.94219828  0.56004183  1
+  O  O19  1  0.68976707  0.30909870  0.31136717  1
+  O  O20  1  0.30780172  0.69443939  0.68995817  1
+  O  O21  1  0.68976707  0.68976707  0.31136717  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_GePb3O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.52342663
+_cell_length_b   5.30256749
+_cell_length_c   5.52704001
+_cell_angle_alpha   86.86488918
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GePb3O5
+_chemical_formula_sum   'Ge2 Pb6 O10'
+_cell_volume   307.95376246
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.24286719  0.97875084  0.45191033  1
+  Ge  Ge1  1  0.74286719  0.02124916  0.54808967  1
+  Pb  Pb2  1  0.00025123  0.97543525  0.95394935  1
+  Pb  Pb3  1  0.50025123  0.02456475  0.04605065  1
+  Pb  Pb4  1  0.74961309  0.49435046  0.01660345  1
+  Pb  Pb5  1  0.51526141  0.51248946  0.50191737  1
+  Pb  Pb6  1  0.01526141  0.48751054  0.49808263  1
+  Pb  Pb7  1  0.24961309  0.50564954  0.98339655  1
+  O  O8  1  0.40740850  0.92802008  0.47214642  1
+  O  O9  1  0.05325054  0.37822286  0.90119648  1
+  O  O10  1  0.16006940  0.83001995  0.69916570  1
+  O  O11  1  0.66006940  0.16998005  0.30083430  1
+  O  O12  1  0.90740850  0.07197992  0.52785358  1
+  O  O13  1  0.55325054  0.62177714  0.09880352  1
+  O  O14  1  0.20844783  0.30514635  0.41240966  1
+  O  O15  1  0.18173181  0.83888074  0.19151734  1
+  O  O16  1  0.70844783  0.69485365  0.58759034  1
+  O  O17  1  0.68173181  0.16111926  0.80848266  1

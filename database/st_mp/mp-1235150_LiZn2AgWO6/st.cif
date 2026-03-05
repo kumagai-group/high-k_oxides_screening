@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiZn2AgWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93511070
+_cell_length_b   6.83521157
+_cell_length_c   7.19553638
+_cell_angle_alpha   89.13220902
+_cell_angle_beta   128.70450300
+_cell_angle_gamma   127.53295832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZn2AgWO6
+_chemical_formula_sum   'Li1 Zn2 Ag1 W1 O6'
+_cell_volume   145.70743506
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.53089300  0.49828100  0.50022900  1
+  Zn  Zn1  1  0.99189100  0.52997200  0.19253500  1
+  Zn  Zn2  1  0.99136000  0.41312900  0.80283700  1
+  Ag  Ag3  1  0.00256100  0.00290600  0.50173600  1
+  W  W4  1  0.99181700  0.97531000  0.99854200  1
+  O  O5  1  0.33990500  0.12524200  0.41156800  1
+  O  O6  1  0.65171900  0.83982100  0.58733400  1
+  O  O7  1  0.01848200  0.27950800  0.05349700  1
+  O  O8  1  0.44347300  0.67000000  0.85026800  1
+  O  O9  1  0.53915300  0.28384500  0.14507200  1
+  O  O10  1  0.97135200  0.67822800  0.94630600  1

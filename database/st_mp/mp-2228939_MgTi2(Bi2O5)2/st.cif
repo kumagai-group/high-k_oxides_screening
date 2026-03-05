@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_MgTi2(Bi2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96941508
+_cell_length_b   6.77484472
+_cell_length_c   10.32460200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   73.07963826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2(Bi2O5)2
+_chemical_formula_sum   'Mg1 Ti2 Bi4 O10'
+_cell_volume   265.63150997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.52375000  0.94421800  0.25000000  1
+  Ti  Ti1  1  0.17675600  0.63914700  0.25000000  1
+  Ti  Ti2  1  0.83448600  0.33701800  0.75000000  1
+  Bi  Bi3  1  0.14243900  0.71640400  0.92393900  1
+  Bi  Bi4  1  0.14243900  0.71640400  0.57606100  1
+  Bi  Bi5  1  0.86101400  0.27599000  0.07455900  1
+  Bi  Bi6  1  0.86101400  0.27599000  0.42544100  1
+  O  O7  1  0.06176500  0.88103400  0.37207900  1
+  O  O8  1  0.06176500  0.88103400  0.12792100  1
+  O  O9  1  0.72028300  0.55926500  0.90741300  1
+  O  O10  1  0.72028300  0.55926500  0.59258700  1
+  O  O11  1  0.28866500  0.42019500  0.75000000  1
+  O  O12  1  0.68758800  0.62664700  0.25000000  1
+  O  O13  1  0.26142000  0.47718900  0.08542600  1
+  O  O14  1  0.26142000  0.47718900  0.41457400  1
+  O  O15  1  0.93079000  0.13775600  0.61824200  1
+  O  O16  1  0.93079000  0.13775600  0.88175800  1

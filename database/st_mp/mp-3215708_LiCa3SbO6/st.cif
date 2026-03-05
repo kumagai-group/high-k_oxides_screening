@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_LiCa3SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51683575
+_cell_length_b   6.51683790
+_cell_length_c   6.51683938
+_cell_angle_alpha   92.28045060
+_cell_angle_beta   92.28042570
+_cell_angle_gamma   92.28039455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa3SbO6
+_chemical_formula_sum   'Li2 Ca6 Sb2 O12'
+_cell_volume   276.08915616
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25000000  0.25000000  0.25000000  1
+  Li  Li1  1  0.75000000  0.75000000  0.75000000  1
+  Ca  Ca2  1  0.59739677  0.24999900  0.90260323  1
+  Ca  Ca3  1  0.40260323  0.75000100  0.09739677  1
+  Ca  Ca4  1  0.90260323  0.59739677  0.24999900  1
+  Ca  Ca5  1  0.09739677  0.40260323  0.75000100  1
+  Ca  Ca6  1  0.24999900  0.90260323  0.59739677  1
+  Ca  Ca7  1  0.75000100  0.09739677  0.40260323  1
+  Sb  Sb8  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb9  1  0.50000000  0.50000100  0.50000000  1
+  O  O10  1  0.20812125  0.54744268  0.42736894  1
+  O  O11  1  0.79187875  0.45255732  0.57263106  1
+  O  O12  1  0.07263106  0.95256032  0.29187775  1
+  O  O13  1  0.92736794  0.04744068  0.70812225  1
+  O  O14  1  0.42736894  0.20812125  0.54744368  1
+  O  O15  1  0.57263106  0.79187775  0.45255732  1
+  O  O16  1  0.95255932  0.29187775  0.07263106  1
+  O  O17  1  0.04744068  0.70812225  0.92736894  1
+  O  O18  1  0.54744368  0.42736894  0.20812125  1
+  O  O19  1  0.45255732  0.57263106  0.79187875  1
+  O  O20  1  0.29187875  0.07263106  0.95255932  1
+  O  O21  1  0.70812125  0.92736894  0.04744068  1

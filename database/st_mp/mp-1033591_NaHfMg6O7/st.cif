@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaHfMg6O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.92524739
+_cell_length_b   4.39492505
+_cell_length_c   4.39492505
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHfMg6O7
+_chemical_formula_sum   'Na1 Hf1 Mg6 O7'
+_cell_volume   172.39442172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99699514  0.00000000  0.00000000  1
+  Hf  Hf1  1  0.49988082  0.00000000  -0.00000000  1
+  Mg  Mg2  1  0.98916828  0.50000000  0.50000000  1
+  Mg  Mg3  1  0.51115407  0.50000000  0.50000000  1
+  Mg  Mg4  1  0.22396136  0.00000000  0.50000000  1
+  Mg  Mg5  1  0.76522896  0.00000000  0.50000000  1
+  Mg  Mg6  1  0.22396136  0.50000000  -0.00000000  1
+  Mg  Mg7  1  0.76522896  0.50000000  0.00000000  1
+  O  O8  1  0.26707857  0.00000000  -0.00000000  1
+  O  O9  1  0.73369789  0.00000000  0.00000000  1
+  O  O10  1  0.75111811  0.50000000  0.50000000  1
+  O  O11  1  0.99442714  0.00000000  0.50000000  1
+  O  O12  1  0.51683610  0.00000000  0.50000000  1
+  O  O13  1  0.99442714  0.50000000  0.00000000  1
+  O  O14  1  0.51683610  0.50000000  0.00000000  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CsNaMg6O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.10187006
+_cell_length_b   4.61172767
+_cell_length_c   4.61153541
+_cell_angle_alpha   90.00767293
+_cell_angle_beta   90.00011536
+_cell_angle_gamma   89.99981640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaMg6O7
+_chemical_formula_sum   'Cs1 Na1 Mg6 O7'
+_cell_volume   193.57079274
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.01355902  0.49999973  0.49999910  1
+  Na  Na1  1  0.00488123  0.00000022  0.00000047  1
+  Mg  Mg2  1  0.49624371  0.00000196  0.00000370  1
+  Mg  Mg3  1  0.49845446  0.50000009  0.50000439  1
+  Mg  Mg4  1  0.26498158  0.00000039  0.50001354  1
+  Mg  Mg5  1  0.72100939  -0.00000617  0.50000577  1
+  Mg  Mg6  1  0.26500405  0.50001148  0.00000026  1
+  Mg  Mg7  1  0.72099049  0.49999681  0.00001292  1
+  O  O8  1  0.27496067  -0.00000965  -0.00000689  1
+  O  O9  1  0.72440791  0.00000081  -0.00000557  1
+  O  O10  1  0.71421363  0.50000579  0.49998117  1
+  O  O11  1  0.03259382  -0.00000070  0.49999694  1
+  O  O12  1  0.49306824  -0.00000067  0.49999773  1
+  O  O13  1  0.03256255  0.50000347  0.00000044  1
+  O  O14  1  0.49306926  0.49999645  -0.00000397  1

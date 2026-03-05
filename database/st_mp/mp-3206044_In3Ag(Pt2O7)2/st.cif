@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_In3Ag(Pt2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03085519
+_cell_length_b   7.03085519
+_cell_length_c   7.03085510
+_cell_angle_alpha   60.99459781
+_cell_angle_beta   60.99460241
+_cell_angle_gamma   60.99460021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Ag(Pt2O7)2
+_chemical_formula_sum   'In3 Ag1 Pt4 O14'
+_cell_volume   251.26501445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.62500000  0.12500000  0.12500000  1
+  In  In1  1  0.12500000  0.62500000  0.12500000  1
+  In  In2  1  0.12500000  0.12500000  0.62500000  1
+  Ag  Ag3  1  0.12500000  0.12500000  0.12500000  1
+  Pt  Pt4  1  0.62500000  0.62500000  0.12500000  1
+  Pt  Pt5  1  0.62500000  0.12500000  0.62500000  1
+  Pt  Pt6  1  0.12500000  0.62500000  0.62500000  1
+  Pt  Pt7  1  0.62500000  0.62500000  0.62500000  1
+  O  O8  1  0.24587149  0.24587149  0.24587149  1
+  O  O9  1  0.70029763  0.28857994  0.28857994  1
+  O  O10  1  0.71880330  0.28350623  0.71880330  1
+  O  O11  1  0.28857994  0.70029763  0.28857994  1
+  O  O12  1  0.71880330  0.71880330  0.28350623  1
+  O  O13  1  0.28857994  0.28857994  0.70029763  1
+  O  O14  1  0.96649377  0.53119670  0.53119670  1
+  O  O15  1  0.28350623  0.71880330  0.71880330  1
+  O  O16  1  0.96142006  0.96142006  0.54970237  1
+  O  O17  1  0.53119670  0.96649377  0.53119670  1
+  O  O18  1  0.53119670  0.53119670  0.96649377  1
+  O  O19  1  0.96142006  0.54970237  0.96142006  1
+  O  O20  1  0.54970237  0.96142006  0.96142006  1
+  O  O21  1  0.00412851  0.00412851  0.00412851  1

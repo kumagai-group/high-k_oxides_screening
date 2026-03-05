@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaMgTi2BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04044769
+_cell_length_b   6.03752714
+_cell_length_c   6.03870080
+_cell_angle_alpha   52.29640155
+_cell_angle_beta   52.28951605
+_cell_angle_gamma   52.28417725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMgTi2BiO6
+_chemical_formula_sum   'Na1 Mg1 Ti2 Bi1 O6'
+_cell_volume   127.52064741
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.32677703  0.32707250  0.32707486  1
+  Mg  Mg1  1  0.17148845  0.17193576  0.17197001  1
+  Ti  Ti2  1  0.98620938  0.98687377  0.98703382  1
+  Ti  Ti3  1  0.50851366  0.50900167  0.50902984  1
+  Bi  Bi4  1  0.75207782  0.75227992  0.75243446  1
+  O  O5  1  0.19627471  0.30777994  0.76158188  1
+  O  O6  1  0.30773195  0.76158877  0.19616769  1
+  O  O7  1  0.76154050  0.19604246  0.30737941  1
+  O  O8  1  0.23562807  0.88145651  0.61671057  1
+  O  O9  1  0.61670605  0.23542819  0.88144931  1
+  O  O10  1  0.88142537  0.61661451  0.23524215  1

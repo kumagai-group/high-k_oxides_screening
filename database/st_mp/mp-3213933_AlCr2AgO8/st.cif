@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlCr2AgO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99555301
+_cell_length_b   4.99555323
+_cell_length_c   6.81774600
+_cell_angle_alpha   91.95741022
+_cell_angle_beta   91.95740800
+_cell_angle_gamma   65.61755148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCr2AgO8
+_chemical_formula_sum   'Al1 Cr2 Ag1 O8'
+_cell_volume   154.83777572
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.35177169  0.35177169  0.77953141  1
+  Cr  Cr2  1  0.64822831  0.64822831  0.22046859  1
+  Ag  Ag3  1  0.00000000  0.00000000  0.50000000  1
+  O  O4  1  0.26332206  0.26332206  0.56538413  1
+  O  O5  1  0.73667794  0.73667794  0.43461587  1
+  O  O6  1  0.72044899  0.20791665  0.80302581  1
+  O  O7  1  0.27955101  0.79208335  0.19697419  1
+  O  O8  1  0.79208335  0.27955101  0.19697419  1
+  O  O9  1  0.20791665  0.72044899  0.80302581  1
+  O  O10  1  0.21820483  0.21820483  0.94841630  1
+  O  O11  1  0.78179517  0.78179517  0.05158370  1

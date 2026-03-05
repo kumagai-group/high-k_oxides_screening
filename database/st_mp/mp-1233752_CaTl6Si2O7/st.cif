@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaTl6Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85083251
+_cell_length_b   10.25747170
+_cell_length_c   9.77822254
+_cell_angle_alpha   57.30783609
+_cell_angle_beta   89.37781641
+_cell_angle_gamma   88.25896015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTl6Si2O7
+_chemical_formula_sum   'Ca1 Tl6 Si2 O7'
+_cell_volume   409.26475072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25291000  0.46828600  0.45466300  1
+  Tl  Tl1  1  0.78749500  0.81139100  0.39108900  1
+  Tl  Tl2  1  0.70829000  0.82625500  0.73683100  1
+  Tl  Tl3  1  0.77711100  0.40490800  0.90443300  1
+  Tl  Tl4  1  0.09356100  0.08959900  0.66311800  1
+  Tl  Tl5  1  0.20522700  0.15382400  0.26468500  1
+  Tl  Tl6  1  0.18661400  0.62160900  0.05811100  1
+  Si  Si7  1  0.29340000  0.69768700  0.65089700  1
+  Si  Si8  1  0.71107200  0.34961800  0.32428000  1
+  O  O9  1  0.14312300  0.87189700  0.57017200  1
+  O  O10  1  0.18728600  0.57562400  0.83773200  1
+  O  O11  1  0.23656500  0.63344900  0.53269800  1
+  O  O12  1  0.82561600  0.16640400  0.42417400  1
+  O  O13  1  0.81419800  0.44171000  0.13276200  1
+  O  O14  1  0.79509800  0.43817200  0.41825600  1
+  O  O15  1  0.36843200  0.34725300  0.32654400  1

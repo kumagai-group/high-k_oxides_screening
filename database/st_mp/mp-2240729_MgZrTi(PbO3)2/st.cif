@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgZrTi(PbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94989131
+_cell_length_b   6.79599677
+_cell_length_c   6.79599677
+_cell_angle_alpha   74.22677718
+_cell_angle_beta   89.56961737
+_cell_angle_gamma   89.56961737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZrTi(PbO3)2
+_chemical_formula_sum   'Mg1 Zr1 Ti1 Pb2 O6'
+_cell_volume   175.55090086
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.11420405  0.24422071  0.74422071  1
+  Zr  Zr1  1  0.60372300  0.50067327  0.00067327  1
+  Ti  Ti2  1  0.58779790  0.04386796  0.54386796  1
+  Pb  Pb3  1  0.02595882  0.99142319  0.14154545  1
+  Pb  Pb4  1  0.02595882  0.64154545  0.49142319  1
+  O  O5  1  0.60408434  0.19232622  0.24515106  1
+  O  O6  1  0.61471569  0.21742762  0.71742762  1
+  O  O7  1  0.61018607  0.67750404  0.17750404  1
+  O  O8  1  0.60408434  0.74515106  0.69232622  1
+  O  O9  1  0.12199780  0.05822999  0.55822999  1
+  O  O10  1  0.10684717  0.43763049  0.93763049  1

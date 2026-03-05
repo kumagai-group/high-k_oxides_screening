@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li3BiPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48165121
+_cell_length_b   5.48168265
+_cell_length_c   5.08695457
+_cell_angle_alpha   95.89575116
+_cell_angle_beta   95.89653416
+_cell_angle_gamma   122.83812661
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3BiPtO6
+_chemical_formula_sum   'Li3 Bi1 Pt1 O6'
+_cell_volume   125.43493943
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.48813488  0.51187189  0.99999853  1
+  Li  Li1  1  0.72256704  0.27743709  0.49999438  1
+  Li  Li2  1  0.38912427  0.61087284  0.49999387  1
+  Bi  Bi3  1  0.14927634  0.85073777  0.99999931  1
+  Pt  Pt4  1  0.82534643  0.17464650  0.00001297  1
+  O  O5  1  0.19394657  0.23818397  0.20970647  1
+  O  O6  1  0.54332627  0.91284936  0.22741479  1
+  O  O7  1  0.87222273  0.52642458  0.22165959  1
+  O  O8  1  0.47357571  0.12777555  0.77831745  1
+  O  O9  1  0.08715469  0.45667279  0.77255800  1
+  O  O10  1  0.76181407  0.80604967  0.79027265  1

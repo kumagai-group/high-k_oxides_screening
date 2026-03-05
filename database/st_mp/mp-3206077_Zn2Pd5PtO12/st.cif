@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zn2Pd5PtO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13118530
+_cell_length_b   7.11599321
+_cell_length_c   9.92204960
+_cell_angle_alpha   89.97068414
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2Pd5PtO12
+_chemical_formula_sum   'Zn2 Pd5 Pt1 O12'
+_cell_volume   221.07805291
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00000000  0.00339520  0.99823050  1
+  Zn  Zn1  1  0.00000000  0.49656197  0.50182219  1
+  Pd  Pd2  1  0.00000000  0.00084624  0.50097571  1
+  Pd  Pd3  1  0.00000000  0.49914088  0.99899816  1
+  Pd  Pd4  1  0.50000000  0.25009135  0.25000446  1
+  Pd  Pd5  1  0.50000000  0.74994267  0.74999230  1
+  Pd  Pd6  1  0.50000000  0.24992174  0.75005804  1
+  Pt  Pt7  1  0.50000000  0.75005884  0.24991447  1
+  O  O8  1  0.50000000  0.99952132  0.14908880  1
+  O  O9  1  0.50000000  0.99983278  0.84999151  1
+  O  O10  1  0.50000000  0.50000757  0.65002575  1
+  O  O11  1  0.50000000  0.50064493  0.35090737  1
+  O  O12  1  0.00000000  0.20862665  0.37292778  1
+  O  O13  1  0.00000000  0.79227524  0.62750327  1
+  O  O14  1  0.00000000  0.29017705  0.87304738  1
+  O  O15  1  0.00000000  0.70968308  0.12710154  1
+  O  O16  1  0.00000000  0.29155139  0.12715282  1
+  O  O17  1  0.00000000  0.70759138  0.87241697  1
+  O  O18  1  0.00000000  0.20966526  0.62704487  1
+  O  O19  1  0.00000000  0.79046247  0.37279711  1

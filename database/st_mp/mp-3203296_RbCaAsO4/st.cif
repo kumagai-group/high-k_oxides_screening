@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbCaAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.48000731
+_cell_length_b   10.48000759
+_cell_length_c   10.48000763
+_cell_angle_alpha   30.26200203
+_cell_angle_beta   30.26199742
+_cell_angle_gamma   30.26200096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCaAsO4
+_chemical_formula_sum   'Rb2 Ca2 As2 O8'
+_cell_volume   259.03849548
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.28877904  0.28877904  0.28877904  1
+  Rb  Rb1  1  0.71122096  0.71122096  0.71122096  1
+  Ca  Ca2  1  0.16086303  0.16086303  0.16086303  1
+  Ca  Ca3  1  0.83913697  0.83913697  0.83913697  1
+  As  As4  1  0.43719947  0.43719947  0.43719947  1
+  As  As5  1  0.56280053  0.56280053  0.56280053  1
+  O  O6  1  0.73977491  0.47902340  0.15043444  1
+  O  O7  1  0.52097660  0.84956656  0.26022309  1
+  O  O8  1  0.38120468  0.38120468  0.38120468  1
+  O  O9  1  0.15043444  0.73977691  0.47902240  1
+  O  O10  1  0.84956556  0.26022309  0.52097760  1
+  O  O11  1  0.61879532  0.61879532  0.61879532  1
+  O  O12  1  0.47902340  0.15043344  0.73977691  1
+  O  O13  1  0.26022509  0.52097660  0.84956556  1

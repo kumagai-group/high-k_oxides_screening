@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CaMgPd3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06542716
+_cell_length_b   10.50279345
+_cell_length_c   6.52742915
+_cell_angle_alpha   105.56303523
+_cell_angle_beta   62.30638268
+_cell_angle_gamma   90.00576005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgPd3O8
+_chemical_formula_sum   'Ca2 Mg2 Pd6 O16'
+_cell_volume   350.88518586
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.74999650  0.74999906  0.50000241  1
+  Ca  Ca1  1  0.24999680  0.24999857  0.50000358  1
+  Mg  Mg2  1  0.50000168  0.49999911  0.99999961  1
+  Mg  Mg3  1  0.00000233  0.99999825  0.99999800  1
+  Pd  Pd4  1  0.74996341  0.75001653  0.00001544  1
+  Pd  Pd5  1  0.74999696  0.25001588  0.00001492  1
+  Pd  Pd6  1  0.00001417  0.49998619  0.99999627  1
+  Pd  Pd7  1  0.24997393  0.25001757  0.00001383  1
+  Pd  Pd8  1  0.25000105  0.75001474  0.00001386  1
+  Pd  Pd9  1  0.50001258  0.99998316  0.99999865  1
+  O  O10  1  0.09012315  0.63661580  0.81972315  1
+  O  O11  1  0.59012067  0.13661718  0.81972550  1
+  O  O12  1  0.40989349  0.86337769  0.18025317  1
+  O  O13  1  0.90989377  0.36337838  0.18025168  1
+  O  O14  1  0.35479335  0.88172933  0.80939144  1
+  O  O15  1  0.85479273  0.38172817  0.80939110  1
+  O  O16  1  0.90472660  0.85874861  0.19058026  1
+  O  O17  1  0.40472817  0.35874580  0.19057954  1
+  O  O18  1  0.14520274  0.61826982  0.19060803  1
+  O  O19  1  0.64520556  0.11827078  0.19061190  1
+  O  O20  1  0.66421964  0.61825961  0.19057413  1
+  O  O21  1  0.16421262  0.11826145  0.19057938  1
+  O  O22  1  0.83578968  0.88173643  0.80942161  1
+  O  O23  1  0.33578628  0.38173597  0.80942377  1
+  O  O24  1  0.59527661  0.64124870  0.80941901  1
+  O  O25  1  0.09527852  0.14124621  0.80941676  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrCa7(As2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44479599
+_cell_length_b   8.44479606
+_cell_length_c   6.45671970
+_cell_angle_alpha   89.98157864
+_cell_angle_beta   89.98158139
+_cell_angle_gamma   44.95120329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa7(As2O)2
+_chemical_formula_sum   'Sr1 Ca7 As4 O2'
+_cell_volume   325.31571977
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.67486086  0.67486086  0.99898482  1
+  Ca  Ca1  1  0.33180362  0.33180362  0.00067746  1
+  Ca  Ca2  1  0.74964787  0.24948292  0.25013211  1
+  Ca  Ca3  1  0.24948292  0.74964787  0.25013211  1
+  Ca  Ca4  1  0.83087518  0.83087518  0.49908955  1
+  Ca  Ca5  1  0.17283019  0.17283019  0.50059625  1
+  Ca  Ca6  1  0.74925407  0.24895439  0.75004322  1
+  Ca  Ca7  1  0.24895439  0.74925407  0.75004322  1
+  As  As8  1  0.86849963  0.86849963  0.00030970  1
+  As  As9  1  0.36280793  0.36280793  0.50012743  1
+  As  As10  1  0.63625036  0.63625036  0.49982192  1
+  As  As11  1  0.13701747  0.13701747  0.99991321  1
+  O  O12  1  0.49168318  0.49168318  0.00008152  1
+  O  O13  1  0.99602833  0.99602833  0.50004650  1

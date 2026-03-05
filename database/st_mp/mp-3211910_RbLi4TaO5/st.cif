@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_RbLi4TaO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82944870
+_cell_length_b   5.88801062
+_cell_length_c   8.32488082
+_cell_angle_alpha   88.72822253
+_cell_angle_beta   100.86807209
+_cell_angle_gamma   119.55088145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLi4TaO5
+_chemical_formula_sum   'Rb2 Li8 Ta2 O10'
+_cell_volume   243.27408177
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.60636994  0.75478608  0.40675629  1
+  Rb  Rb1  1  0.39363006  0.24521392  0.59324371  1
+  Li  Li2  1  0.33765650  0.99256284  0.87993762  1
+  Li  Li3  1  0.66234350  0.00743716  0.12006238  1
+  Li  Li4  1  0.59666414  0.39126202  0.08056313  1
+  Li  Li5  1  0.88986057  0.34365199  0.38097951  1
+  Li  Li6  1  0.09152475  0.39980098  0.10071236  1
+  Li  Li7  1  0.40333586  0.60873798  0.91943687  1
+  Li  Li8  1  0.11013943  0.65634801  0.61902049  1
+  Li  Li9  1  0.90847525  0.60019902  0.89928764  1
+  Ta  Ta10  1  0.14833840  0.94923597  0.19419681  1
+  Ta  Ta11  1  0.85166160  0.05076403  0.80580319  1
+  O  O12  1  0.78113838  0.76817174  0.03115903  1
+  O  O13  1  0.52701173  0.19216603  0.26900077  1
+  O  O14  1  0.21886162  0.23182826  0.96884097  1
+  O  O15  1  0.25837101  0.75757575  0.05203066  1
+  O  O16  1  0.47298827  0.80783397  0.73099923  1
+  O  O17  1  0.92184707  0.27780788  0.63666835  1
+  O  O18  1  0.03097156  0.17508299  0.27358817  1
+  O  O19  1  0.74162899  0.24242425  0.94796934  1
+  O  O20  1  0.07815293  0.72219212  0.36333165  1
+  O  O21  1  0.96902844  0.82491701  0.72641183  1

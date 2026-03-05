@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr4CuAgO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88631493
+_cell_length_b   6.88631470
+_cell_length_c   10.63749185
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.00470506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4CuAgO6
+_chemical_formula_sum   'Sr8 Cu2 Ag2 O12'
+_cell_volume   362.83789080
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.21563158  0.92620324  0.75000000  1
+  Sr  Sr1  1  0.64794148  0.35205852  0.50000000  1
+  Sr  Sr2  1  0.78436842  0.07379676  0.25000000  1
+  Sr  Sr3  1  0.92620324  0.21563158  0.75000000  1
+  Sr  Sr4  1  0.07379676  0.78436842  0.25000000  1
+  Sr  Sr5  1  0.35205852  0.64794148  0.00000000  1
+  Sr  Sr6  1  0.35205852  0.64794148  0.50000000  1
+  Sr  Sr7  1  0.64794148  0.35205852  0.00000000  1
+  Cu  Cu8  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag10  1  0.40078597  0.40078597  0.25000000  1
+  Ag  Ag11  1  0.59921403  0.59921403  0.75000000  1
+  O  O12  1  0.24438722  0.57417876  0.25000000  1
+  O  O13  1  0.15069356  0.84930644  0.50000000  1
+  O  O14  1  0.57417876  0.24438722  0.25000000  1
+  O  O15  1  0.73458095  0.73458095  0.39400350  1
+  O  O16  1  0.15069356  0.84930644  0.00000000  1
+  O  O17  1  0.84930644  0.15069356  0.00000000  1
+  O  O18  1  0.42582124  0.75561278  0.75000000  1
+  O  O19  1  0.75561278  0.42582124  0.75000000  1
+  O  O20  1  0.73458095  0.73458095  0.10599650  1
+  O  O21  1  0.84930644  0.15069356  0.50000000  1
+  O  O22  1  0.26541905  0.26541905  0.60599650  1
+  O  O23  1  0.26541905  0.26541905  0.89400350  1

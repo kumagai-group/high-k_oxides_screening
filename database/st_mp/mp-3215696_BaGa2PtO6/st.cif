@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaGa2PtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98706854
+_cell_length_b   6.98706860
+_cell_length_c   6.98706800
+_cell_angle_alpha   43.62222434
+_cell_angle_beta   43.62222173
+_cell_angle_gamma   43.62222044
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGa2PtO6
+_chemical_formula_sum   'Ba1 Ga2 Pt1 O6'
+_cell_volume   147.34428604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga1  1  0.17502335  0.17502335  0.17502335  1
+  Ga  Ga2  1  0.82497665  0.82497665  0.82497665  1
+  Pt  Pt3  1  0.50000000  0.50000000  0.50000000  1
+  O  O4  1  0.78497922  0.43839478  0.11298708  1
+  O  O5  1  0.56160622  0.88701192  0.21502078  1
+  O  O6  1  0.11298808  0.78497822  0.43839478  1
+  O  O7  1  0.88701192  0.21502178  0.56160522  1
+  O  O8  1  0.43839378  0.11298808  0.78497922  1
+  O  O9  1  0.21502078  0.56160522  0.88701292  1

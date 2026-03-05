@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K4Ag3AuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39934384
+_cell_length_b   7.39934346
+_cell_length_c   7.51885054
+_cell_angle_alpha   97.69431747
+_cell_angle_beta   97.69431024
+_cell_angle_gamma   136.71060722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Ag3AuO4
+_chemical_formula_sum   'K4 Ag3 Au1 O4'
+_cell_volume   263.01561631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49746407  0.18074473  0.67820880  1
+  K  K1  1  0.50333104  0.81941772  0.32274876  1
+  K  K2  1  0.81941772  0.50333104  0.32274876  1
+  K  K3  1  0.18074473  0.49746407  0.67820880  1
+  Ag  Ag4  1  0.15038846  0.84793324  0.99832170  1
+  Ag  Ag5  1  0.85195145  0.85195145  0.70390190  1
+  Ag  Ag6  1  0.84793324  0.15038846  0.99832170  1
+  Au  Au7  1  0.14964440  0.14964440  0.29928981  1
+  O  O8  1  0.29406348  0.99952858  0.29359205  1
+  O  O9  1  0.00184993  0.70368291  0.70553284  1
+  O  O10  1  0.99952858  0.29406348  0.29359205  1
+  O  O11  1  0.70368291  0.00184993  0.70553284  1

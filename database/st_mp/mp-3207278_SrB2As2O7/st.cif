@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrB2As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71665299
+_cell_length_b   7.71665317
+_cell_length_c   7.71665288
+_cell_angle_alpha   36.51598973
+_cell_angle_beta   36.51599111
+_cell_angle_gamma   36.51598803
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrB2As2O7
+_chemical_formula_sum   'Sr1 B2 As2 O7'
+_cell_volume   145.65647798
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.50000000  0.50000000  1
+  B  B1  1  0.06589092  0.06589092  0.06589092  1
+  B  B2  1  0.93410908  0.93410908  0.93410908  1
+  As  As3  1  0.28460201  0.28460201  0.28460201  1
+  As  As4  1  0.71539799  0.71539799  0.71539799  1
+  O  O5  1  0.00000000  0.00000000  0.00000000  1
+  O  O6  1  0.40892192  0.85613449  0.01310911  1
+  O  O7  1  0.59107808  0.98688989  0.14386651  1
+  O  O8  1  0.85613349  0.01310911  0.40892292  1
+  O  O9  1  0.98689089  0.14386651  0.59107708  1
+  O  O10  1  0.01311011  0.40892192  0.85613349  1
+  O  O11  1  0.14386551  0.59107808  0.98689089  1

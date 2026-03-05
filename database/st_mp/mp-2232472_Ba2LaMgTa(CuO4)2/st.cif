@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba2LaMgTa(CuO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46421450
+_cell_length_b   4.46086857
+_cell_length_c   11.72298034
+_cell_angle_alpha   90.00661483
+_cell_angle_beta   90.00160308
+_cell_angle_gamma   85.34463442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LaMgTa(CuO4)2
+_chemical_formula_sum   'Ba2 La1 Mg1 Ta1 Cu2 O8'
+_cell_volume   232.68445657
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40942562  0.40956134  0.19428385  1
+  Ba  Ba1  1  0.40935948  0.40971437  0.80578418  1
+  La  La2  1  0.63463608  0.63435532  0.49998963  1
+  Mg  Mg3  1  0.19827078  0.19814422  0.49998986  1
+  Ta  Ta4  1  0.92866216  0.92880435  -0.00002993  1
+  Cu  Cu5  1  0.91535898  0.91571580  0.68580361  1
+  Cu  Cu6  1  0.91526204  0.91526494  0.31399051  1
+  O  O7  1  0.01520349  0.01511682  0.15764922  1
+  O  O8  1  0.53312369  0.07413415  0.61696148  1
+  O  O9  1  0.07404135  0.53312775  0.61695639  1
+  O  O10  1  0.07428967  0.53335486  0.38311993  1
+  O  O11  1  0.53346406  0.07427605  0.38310896  1
+  O  O12  1  0.50808200  0.98565228  0.00001176  1
+  O  O13  1  0.01522817  0.01493493  0.84237000  1
+  O  O14  1  0.98559144  0.50784183  0.00001255  1

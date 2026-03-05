@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaCa2ReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46513631
+_cell_length_b   5.81163420
+_cell_length_c   7.87771394
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.24528449
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCa2ReO6
+_chemical_formula_sum   'Na2 Ca4 Re2 O12'
+_cell_volume   250.14791709
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na1  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca2  1  0.47883088  0.93276257  0.75802964  1
+  Ca  Ca3  1  0.02116912  0.43276257  0.74197036  1
+  Ca  Ca4  1  0.52116912  0.06723743  0.24197036  1
+  Ca  Ca5  1  0.97883088  0.56723743  0.25802964  1
+  Re  Re6  1  0.50000000  0.50000000  0.50000000  1
+  Re  Re7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.33964325  0.22992219  0.57386179  1
+  O  O9  1  0.16035675  0.72992219  0.92613821  1
+  O  O10  1  0.66035675  0.77007781  0.42613821  1
+  O  O11  1  0.83964325  0.27007781  0.07386179  1
+  O  O12  1  0.61924226  0.55504498  0.72304392  1
+  O  O13  1  0.88075774  0.05504498  0.77695608  1
+  O  O14  1  0.38075774  0.44495502  0.27695608  1
+  O  O15  1  0.11924226  0.94495502  0.22304392  1
+  O  O16  1  0.21783135  0.67272536  0.54825203  1
+  O  O17  1  0.28216865  0.17272536  0.95174797  1
+  O  O18  1  0.78216865  0.32727464  0.45174797  1
+  O  O19  1  0.71783135  0.82727464  0.04825203  1

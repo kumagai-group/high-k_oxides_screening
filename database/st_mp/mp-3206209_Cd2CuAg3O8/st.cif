@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cd2CuAg3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36337670
+_cell_length_b   6.55536249
+_cell_length_c   6.43934397
+_cell_angle_alpha   126.45239160
+_cell_angle_beta   126.12630303
+_cell_angle_gamma   80.02574272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2CuAg3O8
+_chemical_formula_sum   'Cd2 Cu1 Ag3 O8'
+_cell_volume   167.90665496
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.75155009  0.25584978  0.50492114  1
+  Cd  Cd1  1  0.99844991  0.99415022  0.99507886  1
+  Cu  Cu2  1  0.37500000  0.62500000  0.25000000  1
+  Ag  Ag3  1  0.37500000  0.62500000  0.75000000  1
+  Ag  Ag4  1  0.87500000  0.62500000  0.25000000  1
+  Ag  Ag5  1  0.37500000  0.12500000  0.75000000  1
+  O  O6  1  0.16760454  0.60282305  0.88167981  1
+  O  O7  1  0.75820827  0.29620053  0.15323310  1
+  O  O8  1  0.34458676  0.99502184  0.94698441  1
+  O  O9  1  0.68297658  0.83555870  0.43657652  1
+  O  O10  1  0.06702342  0.41444130  0.06342348  1
+  O  O11  1  0.40541324  0.25497816  0.55301559  1
+  O  O12  1  0.99179173  0.95379947  0.34676690  1
+  O  O13  1  0.58239546  0.64717695  0.61832019  1
