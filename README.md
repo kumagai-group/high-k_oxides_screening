@@ -63,16 +63,27 @@ If you encounter any issues, please contact the authors through the issue tracke
 ### References
 
 [1]A. Takahashi, Y. Kumagai, J. Miyamoto, Y. Mochizuki, and F. Oba
+
 *Machine learning models for predicting the dielectric constants of oxides based on high-throughput first-principles calculations*
+
 Phys. Rev. Materials **4**, 103801 (2020).
+
 doi:10.1103/PhysRevMaterials.4.103801
 
+
 [2] Y. Kumagai, N. Tsunoda, A. Takahashi, and F. Oba
+
 *Insights into oxygen vacancies from high-throughput first-principles calculations*
+
 Phys. Rev. Materials **5**, 123803 (2021).
+
 doi:10.1103/PhysRevMaterials.5.123803
 
+
 [3] A. Jain, S.P. Ong, G. Hautier, W. Chen, W.D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, and K.A. Persson
+
 *The Materials Project: A materials genome approach to accelerating materials innovation*
+
 APL Materials, **1**, 011002 (2013).
+
 doi:10.1063/1.4812323
