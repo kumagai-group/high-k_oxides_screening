@@ -60,7 +60,7 @@ The `results_screening` directory contains **first-principles calculation result
 
 ---
 
-# References
+## References
 
 ```
 [1]A. Takahashi, Y. Kumagai, J. Miyamoto, Y. Mochizuki, and F. Oba
