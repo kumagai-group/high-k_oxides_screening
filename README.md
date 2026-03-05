@@ -30,14 +30,17 @@ This repository contains the **data and source codes** used in the following pap
 The `dataset` directory contains:
 
 - **Training dataset:** Data for **928 oxides** used to train the machine learning model.
-- **Screening dataset:** Data for **8,171 oxides** collected from the Materials Project database for large-scale screening.
+
+The dataset was originally constructed in our previous work [1,2].
+
+- **Screening dataset:** Data for **8,171 oxides** collected from the Materials Project [3] database for large-scale screening.
 
 ### Training Dataset
 
 - st_pbesol: Crystal structures optimized using the **PBEsol exchange–correlation functional**.
 - dielectric_pbesol: Electronic, ionic, and total dielectric tensors calculated using **density functional perturbation theory (DFPT)** with the **PBEsol functional**.
 - phonon_pbesol: Phonon eigenfrequencies calculated using **DFPT with PBEsol**.
-- bandgap_ddh: Band gap values calculated using the **DDH method**.
+- bandgap_ddh: Band gap values calculated using the ** dielectric-dependent hybrid (DDH) method**.
 
 ### Screening Dataset
 
@@ -56,3 +59,20 @@ The `results_screening` directory contains **first-principles calculation result
 - bandgap_ddh: Band gap values calculated using the **DDH method**.
 
 If you encounter any issues, please contact the authors through the issue tracker or email yukumagai@tohoku.ac.jp.
+
+### References
+
+[1]A. Takahashi, Y. Kumagai, J. Miyamoto, Y. Mochizuki, and F. Oba
+*Machine learning models for predicting the dielectric constants of oxides based on high-throughput first-principles calculations*
+Phys. Rev. Materials **4**, 103801 (2020).
+doi:10.1103/PhysRevMaterials.4.103801
+
+[2] Y. Kumagai, N. Tsunoda, A. Takahashi, and F. Oba
+*Insights into oxygen vacancies from high-throughput first-principles calculations*
+Phys. Rev. Materials **5**, 123803 (2021).
+doi:10.1103/PhysRevMaterials.5.123803
+
+[3] A. Jain, S.P. Ong, G. Hautier, W. Chen, W.D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, and K.A. Persson
+*The Materials Project: A materials genome approach to accelerating materials innovation*
+APL Materials, **1**, 011002 (2013).
+doi:10.1063/1.4812323
