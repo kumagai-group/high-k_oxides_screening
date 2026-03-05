@@ -40,7 +40,7 @@ The dataset was originally constructed in our previous work [1,2].
 - st_pbesol: Crystal structures optimized using the **PBEsol exchange–correlation functional**.
 - dielectric_pbesol: Electronic, ionic, and total dielectric tensors calculated using **density functional perturbation theory (DFPT)** with the **PBEsol functional**.
 - phonon_pbesol: Phonon eigenfrequencies calculated using **DFPT with PBEsol**.
-- bandgap_ddh: Band gap values calculated using the ** dielectric-dependent hybrid (DDH) method**.
+- bandgap_ddh: Band gap values calculated using the **dielectric-dependent hybrid (DDH) method**.
 
 ### Screening Dataset
 
