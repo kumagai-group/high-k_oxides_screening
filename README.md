@@ -60,6 +60,8 @@ The `results_screening` directory contains **first-principles calculation result
 
 If you encounter any issues, please contact the authors through the issue tracker or email yukumagai@tohoku.ac.jp.
 
+---
+
 ### References
 
 ```
