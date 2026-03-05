@@ -58,11 +58,9 @@ The `results_screening` directory contains **first-principles calculation result
 - phonon_pbesol: Phonon eigenfrequencies calculated using **DFPT with PBEsol**.
 - bandgap_ddh: Band gap values calculated using the **DDH method**.
 
-If you encounter any issues, please contact the authors through the issue tracker or email yukumagai@tohoku.ac.jp.
-
 ---
 
-### References
+# References
 
 ```
 [1]A. Takahashi, Y. Kumagai, J. Miyamoto, Y. Mochizuki, and F. Oba
@@ -80,3 +78,7 @@ The Materials Project: A materials genome approach to accelerating materials inn
 APL Materials 1, 011002 (2013).
 doi:10.1063/1.4812323
 ```
+
+---
+
+If you encounter any issues, please contact the authors through the issue tracker or email yukumagai@tohoku.ac.jp.
