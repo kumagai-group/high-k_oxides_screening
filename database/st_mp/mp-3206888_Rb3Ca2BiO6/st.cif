@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb3Ca2BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02901142
+_cell_length_b   6.02901072
+_cell_length_c   6.77456524
+_cell_angle_alpha   98.52719098
+_cell_angle_beta   98.52718339
+_cell_angle_gamma   119.99166327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Ca2BiO6
+_chemical_formula_sum   'Rb3 Ca2 Bi1 O6'
+_cell_volume   203.68365865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.82867057  0.17132843  0.50000200  1
+  Rb  Rb1  1  0.50000100  0.50000100  0.50000100  1
+  Rb  Rb2  1  0.17132843  0.82867057  0.50000200  1
+  Ca  Ca3  1  0.66637991  0.33362209  0.99999900  1
+  Ca  Ca4  1  0.33362209  0.66637991  0.99999900  1
+  Bi  Bi5  1  0.00000100  0.00000100  0.00000100  1
+  O  O6  1  0.75818924  0.75818924  0.18289409  1
+  O  O7  1  0.36396618  0.06051191  0.18003048  1
+  O  O8  1  0.06051191  0.36396618  0.18003048  1
+  O  O9  1  0.93948809  0.63603482  0.81997052  1
+  O  O10  1  0.63603482  0.93948809  0.81997052  1
+  O  O11  1  0.24180976  0.24180976  0.81710791  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaHgBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.11249881
+_cell_length_b   5.36277142
+_cell_length_c   6.21555093
+_cell_angle_alpha   88.59509130
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHgBO3
+_chemical_formula_sum   'Na4 Hg4 B4 O12'
+_cell_volume   303.65177814
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75054400  0.70503535  0.01352795  1
+  Na  Na1  1  0.25054400  0.29496465  0.48647205  1
+  Na  Na2  1  0.24945600  0.29496465  0.98647205  1
+  Na  Na3  1  0.74945600  0.70503535  0.51352795  1
+  Hg  Hg4  1  0.58907516  0.23318827  0.76294823  1
+  Hg  Hg5  1  0.08907516  0.76681173  0.73705177  1
+  Hg  Hg6  1  0.41092484  0.76681173  0.23705177  1
+  Hg  Hg7  1  0.91092484  0.23318827  0.26294823  1
+  B  B8  1  0.07996294  0.78959003  0.24452227  1
+  B  B9  1  0.42003706  0.78959003  0.74452227  1
+  B  B10  1  0.57996294  0.21040997  0.25547773  1
+  B  B11  1  0.92003706  0.21040997  0.75547773  1
+  O  O12  1  0.05678274  0.30181291  0.73555217  1
+  O  O13  1  0.39052596  0.04714229  0.74406237  1
+  O  O14  1  0.94321726  0.69818709  0.26444783  1
+  O  O15  1  0.80093826  0.37091801  0.77596535  1
+  O  O16  1  0.30093826  0.62908199  0.72403465  1
+  O  O17  1  0.69906174  0.37091801  0.27596535  1
+  O  O18  1  0.19906174  0.62908199  0.22403465  1
+  O  O19  1  0.44321726  0.30181291  0.23555217  1
+  O  O20  1  0.60947404  0.95285771  0.25593763  1
+  O  O21  1  0.89052596  0.95285771  0.75593763  1
+  O  O22  1  0.10947404  0.04714229  0.24406237  1
+  O  O23  1  0.55678274  0.69818709  0.76444783  1

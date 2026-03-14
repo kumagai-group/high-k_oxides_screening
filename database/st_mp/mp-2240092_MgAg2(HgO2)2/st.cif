@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MgAg2(HgO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57922708
+_cell_length_b   13.85599264
+_cell_length_c   7.36173485
+_cell_angle_alpha   152.54961938
+_cell_angle_beta   76.20794929
+_cell_angle_gamma   99.83237001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAg2(HgO2)2
+_chemical_formula_sum   'Mg1 Ag2 Hg2 O4'
+_cell_volume   162.76956585
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.17353445  0.12841462  0.61331223  1
+  Ag  Ag1  1  0.55519623  0.80723737  0.31321640  1
+  Ag  Ag2  1  0.01500745  0.50612155  0.00648274  1
+  Hg  Hg3  1  0.44517350  0.53415615  0.49978009  1
+  Hg  Hg4  1  -0.00950537  0.00861499  0.01800526  1
+  O  O5  1  0.29156502  0.20220752  0.46741484  1
+  O  O6  1  0.68150429  0.79204207  0.56168425  1
+  O  O7  1  0.24489628  0.81554076  0.10402491  1
+  O  O8  1  0.60262817  0.23344296  0.89226927  1

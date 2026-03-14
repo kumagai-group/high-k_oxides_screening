@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiLaTa2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87618285
+_cell_length_b   3.87618285
+_cell_length_c   10.21127483
+_cell_angle_alpha   79.05893612
+_cell_angle_beta   79.05893612
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLaTa2O7
+_chemical_formula_sum   'Li1 La1 Ta2 O7'
+_cell_volume   147.79214853
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75000000  0.25000000  0.50000000  1
+  La  La1  1  0.00000000  0.00000000  0.00000000  1
+  Ta  Ta2  1  0.38587230  0.38587230  0.22825540  1
+  Ta  Ta3  1  0.61412770  0.61412770  0.77174460  1
+  O  O4  1  0.59345531  0.09345531  0.81308938  1
+  O  O5  1  0.09122569  0.59122569  0.81754861  1
+  O  O6  1  0.40877431  0.90877431  0.18245139  1
+  O  O7  1  0.90654469  0.40654469  0.18691062  1
+  O  O8  1  0.29461511  0.29461511  0.41076977  1
+  O  O9  1  0.70538489  0.70538489  0.58923023  1
+  O  O10  1  0.50000000  0.50000000  0.00000000  1

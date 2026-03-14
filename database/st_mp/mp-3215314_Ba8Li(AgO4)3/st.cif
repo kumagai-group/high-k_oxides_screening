@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba8Li(AgO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28150617
+_cell_length_b   7.28150551
+_cell_length_c   11.37354656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.23874967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba8Li(AgO4)3
+_chemical_formula_sum   'Ba8 Li1 Ag3 O12'
+_cell_volume   439.31005724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20679264  0.91302301  0.75000000  1
+  Ba  Ba1  1  0.63975350  0.34716754  0.49392688  1
+  Ba  Ba2  1  0.80424146  0.10046404  0.25000000  1
+  Ba  Ba3  1  0.91302301  0.20679264  0.75000000  1
+  Ba  Ba4  1  0.10046404  0.80424146  0.25000000  1
+  Ba  Ba5  1  0.34716754  0.63975350  0.00607312  1
+  Ba  Ba6  1  0.34716754  0.63975350  0.49392688  1
+  Ba  Ba7  1  0.63975350  0.34716754  0.00607312  1
+  Li  Li8  1  0.52124482  0.52124482  0.25000000  1
+  Ag  Ag9  1  0.57747630  0.57747630  0.75000000  1
+  Ag  Ag10  1  0.98931876  0.98931876  0.00123461  1
+  Ag  Ag11  1  0.98931876  0.98931876  0.49876539  1
+  O  O12  1  0.25692122  0.56335898  0.25000000  1
+  O  O13  1  0.14598068  0.83973564  0.49909506  1
+  O  O14  1  0.56335898  0.25692122  0.25000000  1
+  O  O15  1  0.72348281  0.72348281  0.38518931  1
+  O  O16  1  0.14598068  0.83973564  0.00090494  1
+  O  O17  1  0.83973564  0.14598068  0.00090494  1
+  O  O18  1  0.42704372  0.74178753  0.75000000  1
+  O  O19  1  0.74178753  0.42704372  0.75000000  1
+  O  O20  1  0.72348281  0.72348281  0.11481069  1
+  O  O21  1  0.83973564  0.14598068  0.49909506  1
+  O  O22  1  0.25838221  0.25838221  0.60733169  1
+  O  O23  1  0.25838221  0.25838221  0.89266831  1

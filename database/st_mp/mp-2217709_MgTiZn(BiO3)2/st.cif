@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgTiZn(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58067916
+_cell_length_b   5.58067916
+_cell_length_c   6.72851355
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.16416929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiZn(BiO3)2
+_chemical_formula_sum   'Mg1 Ti1 Zn1 Bi2 O6'
+_cell_volume   197.93966781
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.15105586  0.84894414  -0.00000000  1
+  Ti  Ti1  1  0.46146526  0.53853474  -0.00000000  1
+  Zn  Zn2  1  0.46444190  0.53555810  0.50000000  1
+  Bi  Bi3  1  0.84432202  0.15567798  0.75040723  1
+  Bi  Bi4  1  0.84432202  0.15567798  0.24959277  1
+  O  O5  1  0.09190695  0.35789204  0.50000000  1
+  O  O6  1  0.64210796  0.90809305  0.50000000  1
+  O  O7  1  0.11229996  0.48280065  -0.00000000  1
+  O  O8  1  0.51719935  0.88770004  -0.00000000  1
+  O  O9  1  0.56902186  0.43097814  0.76837971  1
+  O  O10  1  0.56902186  0.43097814  0.23162029  1

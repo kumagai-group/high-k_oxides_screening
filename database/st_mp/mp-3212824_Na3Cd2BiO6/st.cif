@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na3Cd2BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.99525011
+_cell_length_b   10.46371668
+_cell_length_c   5.78211952
+_cell_angle_alpha   79.51187628
+_cell_angle_beta   69.35097915
+_cell_angle_gamma   31.13714306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Cd2BiO6
+_chemical_formula_sum   'Na6 Cd4 Bi2 O12'
+_cell_volume   311.86637333
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.58740932  0.58740932  0.91259068  1
+  Na  Na1  1  0.91259068  0.91259068  0.58740932  1
+  Na  Na2  1  0.66259068  0.66259068  0.33740932  1
+  Na  Na3  1  0.33740932  0.33740932  0.66259068  1
+  Na  Na4  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na5  1  0.75000000  0.75000000  0.75000000  1
+  Cd  Cd6  1  0.08159947  0.08159947  0.41840053  1
+  Cd  Cd7  1  0.83159947  0.83159947  0.16840053  1
+  Cd  Cd8  1  0.41840053  0.41840053  0.08159947  1
+  Cd  Cd9  1  0.16840053  0.16840053  0.83159947  1
+  Bi  Bi10  1  0.25000000  0.25000000  0.25000000  1
+  Bi  Bi11  1  0.00000000  0.00000000  0.00000000  1
+  O  O12  1  0.39663198  0.94905925  0.09596469  1
+  O  O13  1  0.09596469  0.55834309  0.39663198  1
+  O  O14  1  0.55834309  0.09596469  0.94905925  1
+  O  O15  1  0.15403531  0.69165691  0.85336802  1
+  O  O16  1  0.22535411  0.77464589  0.22535411  1
+  O  O17  1  0.30094075  0.85336802  0.69165691  1
+  O  O18  1  0.02464589  0.47535411  0.02464589  1
+  O  O19  1  0.47535411  0.02464589  0.47535411  1
+  O  O20  1  0.69165691  0.15403531  0.30094075  1
+  O  O21  1  0.85336802  0.30094075  0.15403531  1
+  O  O22  1  0.94905925  0.39663198  0.55834309  1
+  O  O23  1  0.77464589  0.22535411  0.77464589  1

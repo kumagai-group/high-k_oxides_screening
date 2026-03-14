@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsLa2TaTi2O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86083160
+_cell_length_b   3.86083160
+_cell_length_c   15.39391875
+_cell_angle_alpha   90.00715882
+_cell_angle_beta   89.99284118
+_cell_angle_gamma   90.00001789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLa2TaTi2O10
+_chemical_formula_sum   'Cs1 La2 Ta1 Ti2 O10'
+_cell_volume   229.46206660
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49317965  0.50682035  0.50917727  1
+  La  La1  1  0.49342044  0.50657956  0.84689887  1
+  La  La2  1  0.49307914  0.50692086  0.12843306  1
+  Ta  Ta3  1  0.99299253  0.00700747  0.27818488  1
+  Ti  Ti4  1  0.99318562  0.00681438  0.99879014  1
+  Ti  Ti5  1  0.99342878  0.00657122  0.71605097  1
+  O  O6  1  0.99324340  0.00675660  0.87758093  1
+  O  O7  1  0.99310513  0.00689487  0.12962082  1
+  O  O8  1  0.99345261  0.00654739  0.60426154  1
+  O  O9  1  0.99292927  0.00707073  0.39387226  1
+  O  O10  1  0.49341133  0.00656453  0.75179965  1
+  O  O11  1  0.99343547  0.50658867  0.75179965  1
+  O  O12  1  0.49300183  0.00704190  0.24741381  1
+  O  O13  1  0.99295810  0.50699817  0.24741381  1
+  O  O14  1  0.49313842  0.00696172  0.00935117  1
+  O  O15  1  0.99303828  0.50686158  0.00935117  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_In6Ga2PdO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09111008
+_cell_length_b   7.09111083
+_cell_length_c   7.09111002
+_cell_angle_alpha   59.99999929
+_cell_angle_beta   59.99999580
+_cell_angle_gamma   60.00000329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In6Ga2PdO8
+_chemical_formula_sum   'In6 Ga2 Pd1 O8'
+_cell_volume   252.13185639
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.74774067  0.74774067  0.25225933  1
+  In  In1  1  0.74774067  0.25225933  0.74774067  1
+  In  In2  1  0.25225933  0.74774067  0.25225933  1
+  In  In3  1  0.74774067  0.25225933  0.25225933  1
+  In  In4  1  0.25225933  0.74774067  0.74774067  1
+  In  In5  1  0.25225933  0.25225933  0.74774067  1
+  Ga  Ga6  1  0.25000000  0.25000000  0.25000000  1
+  Ga  Ga7  1  0.75000000  0.75000000  0.75000000  1
+  Pd  Pd8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.35889337  0.92332089  0.35889337  1
+  O  O10  1  0.64110663  0.64110663  0.07667911  1
+  O  O11  1  0.64110663  0.64110663  0.64110663  1
+  O  O12  1  0.07667911  0.64110663  0.64110663  1
+  O  O13  1  0.35889337  0.35889337  0.35889337  1
+  O  O14  1  0.92332089  0.35889337  0.35889337  1
+  O  O15  1  0.35889337  0.35889337  0.92332089  1
+  O  O16  1  0.64110663  0.07667911  0.64110663  1

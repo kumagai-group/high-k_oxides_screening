@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaSrCeTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91412638
+_cell_length_b   5.89702861
+_cell_length_c   8.32126938
+_cell_angle_alpha   90.32425025
+_cell_angle_beta   90.26270933
+_cell_angle_gamma   89.87943421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrCeTiO6
+_chemical_formula_sum   'Ba2 Sr2 Ce2 Ti2 O12'
+_cell_volume   290.20237292
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50363609  0.50908230  0.24943186  1
+  Ba  Ba1  1  0.49636391  0.49091770  0.75056814  1
+  Sr  Sr2  1  0.99762927  0.01771091  0.25181264  1
+  Sr  Sr3  1  0.00237073  0.98228909  0.74818736  1
+  Ce  Ce4  1  0.00000000  0.50000000  0.00000000  1
+  Ce  Ce5  1  0.50000000  -0.00000000  0.50000000  1
+  Ti  Ti6  1  0.50000000  -0.00000000  0.00000000  1
+  Ti  Ti7  1  0.00000000  0.50000000  0.50000000  1
+  O  O8  1  0.24690113  0.21642191  0.96289058  1
+  O  O9  1  0.25117559  0.71885528  0.51798457  1
+  O  O10  1  0.75309887  0.78357809  0.03710942  1
+  O  O11  1  0.74882441  0.28114472  0.48201543  1
+  O  O12  1  0.27835497  0.75146898  0.97896317  1
+  O  O13  1  0.21028872  0.23993586  0.53505372  1
+  O  O14  1  0.72164503  0.24853102  0.02103683  1
+  O  O15  1  0.78971128  0.76006414  0.46494628  1
+  O  O16  1  0.43861874  0.01239180  0.23470404  1
+  O  O17  1  0.04395942  0.47111702  0.26538934  1
+  O  O18  1  0.56138126  0.98760820  0.76529596  1
+  O  O19  1  0.95604058  0.52888298  0.73461066  1

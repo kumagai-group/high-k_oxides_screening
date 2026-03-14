@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrMo2PbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13362232
+_cell_length_b   7.13362262
+_cell_length_c   7.13362238
+_cell_angle_alpha   135.23267777
+_cell_angle_beta   135.23267841
+_cell_angle_gamma   65.16888557
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMo2PbO8
+_chemical_formula_sum   'Sr1 Mo2 Pb1 O8'
+_cell_volume   177.42723806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000000  0.75000000  0.50000000  1
+  Mo  Mo1  1  0.00000000  0.00000000  0.00000000  1
+  Mo  Mo2  1  0.75000000  0.25000000  0.50000000  1
+  Pb  Pb3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.52950032  0.93451247  0.12588571  1
+  O  O5  1  0.94610515  0.84702080  0.62910087  1
+  O  O6  1  0.59638540  0.47049968  0.40501315  1
+  O  O7  1  0.06548753  0.19137225  0.59498685  1
+  O  O8  1  0.68299472  0.05389485  0.90091665  1
+  O  O9  1  0.21791993  0.31700528  0.37089913  1
+  O  O10  1  0.80862775  0.40361460  0.87411429  1
+  O  O11  1  0.15297920  0.78208007  0.09908335  1

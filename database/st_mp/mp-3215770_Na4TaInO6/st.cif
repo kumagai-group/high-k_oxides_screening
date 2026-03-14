@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na4TaInO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55890667
+_cell_length_b   5.55890757
+_cell_length_c   5.71914837
+_cell_angle_alpha   99.62194360
+_cell_angle_beta   99.62195074
+_cell_angle_gamma   119.81423134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4TaInO6
+_chemical_formula_sum   'Na4 Ta1 In1 O6'
+_cell_volume   144.56747724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50017834  0.49982066  0.00000000  1
+  Na  Na1  1  0.99943810  0.00056190  0.50000000  1
+  Na  Na2  1  0.65923491  0.34076509  0.50000000  1
+  Na  Na3  1  0.34146866  0.65853134  0.50000000  1
+  Ta  Ta4  1  0.16778494  0.83221506  1.00000000  1
+  In  In5  1  0.83304895  0.16695105  1.00000000  1
+  O  O6  1  0.95241272  0.59614565  0.21029699  1
+  O  O7  1  0.54776531  0.92793808  0.21404430  1
+  O  O8  1  0.21548569  0.19273290  0.21415335  1
+  O  O9  1  0.80726810  0.78451531  0.78584565  1
+  O  O10  1  0.07206292  0.45223569  0.78595570  1
+  O  O11  1  0.40385635  0.04758928  0.78970401  1

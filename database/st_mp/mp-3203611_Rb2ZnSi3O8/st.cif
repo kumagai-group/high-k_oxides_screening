@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb2ZnSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22863443
+_cell_length_b   6.84745221
+_cell_length_c   6.93762525
+_cell_angle_alpha   79.98396671
+_cell_angle_beta   68.84680379
+_cell_angle_gamma   67.14936139
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2ZnSi3O8
+_chemical_formula_sum   'Rb2 Zn1 Si3 O8'
+_cell_volume   213.30513781
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.96813003  0.28813775  0.82073843  1
+  Rb  Rb1  1  0.03605942  0.69583796  0.20441875  1
+  Zn  Zn2  1  0.69366512  0.88376234  0.77475231  1
+  Si  Si3  1  0.30995173  0.08537658  0.25219527  1
+  Si  Si4  1  0.64096453  0.28168447  0.40896523  1
+  Si  Si5  1  0.36185642  0.71341958  0.59738874  1
+  O  O6  1  0.98134572  0.26908876  0.27914575  1
+  O  O7  1  0.65565948  0.67222460  0.64499616  1
+  O  O8  1  0.53395290  0.20340182  0.24748017  1
+  O  O9  1  0.08144679  0.72279374  0.79612814  1
+  O  O10  1  0.27261791  0.93768062  0.46186705  1
+  O  O11  1  0.60706394  0.15746597  0.62558437  1
+  O  O12  1  0.41875983  0.95877933  0.05084638  1
+  O  O13  1  0.43852418  0.53234948  0.43349323  1

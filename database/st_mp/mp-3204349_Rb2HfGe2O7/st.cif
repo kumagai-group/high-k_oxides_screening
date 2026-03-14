@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb2HfGe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74566620
+_cell_length_b   5.74566682
+_cell_length_c   13.29002723
+_cell_angle_alpha   76.55547246
+_cell_angle_beta   76.55546876
+_cell_angle_gamma   59.05009972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2HfGe2O7
+_chemical_formula_sum   'Rb4 Hf2 Ge4 O14'
+_cell_volume   362.58949619
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.63412417  0.06232575  0.17967495  1
+  Rb  Rb1  1  0.93767425  0.36587583  0.32032505  1
+  Rb  Rb2  1  0.36587583  0.93767425  0.82032505  1
+  Rb  Rb3  1  0.06232575  0.63412417  0.67967495  1
+  Hf  Hf4  1  0.50000000  0.00000000  0.50000000  1
+  Hf  Hf5  1  0.00000000  0.50000000  0.00000000  1
+  Ge  Ge6  1  0.76068038  0.31512095  0.62054447  1
+  Ge  Ge7  1  0.31512095  0.76068038  0.12054447  1
+  Ge  Ge8  1  0.23931962  0.68487905  0.37945553  1
+  Ge  Ge9  1  0.68487905  0.23931962  0.87945553  1
+  O  O10  1  0.81266840  0.91369794  0.95000164  1
+  O  O11  1  0.33027710  0.42630236  0.88023493  1
+  O  O12  1  0.42630236  0.33027710  0.38023493  1
+  O  O13  1  0.66972290  0.57369764  0.11976507  1
+  O  O14  1  0.84032605  0.15967395  0.75000000  1
+  O  O15  1  0.15967395  0.84032605  0.25000000  1
+  O  O16  1  0.19311255  0.55736585  0.09793456  1
+  O  O17  1  0.44263415  0.80688745  0.40206544  1
+  O  O18  1  0.08630206  0.18733160  0.54999836  1
+  O  O19  1  0.55736585  0.19311255  0.59793456  1
+  O  O20  1  0.18733160  0.08630206  0.04999836  1
+  O  O21  1  0.91369794  0.81266840  0.45000164  1
+  O  O22  1  0.80688745  0.44263415  0.90206544  1
+  O  O23  1  0.57369764  0.66972290  0.61976507  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MgSc2Nb2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30879407
+_cell_length_b   5.27658190
+_cell_length_c   6.21653386
+_cell_angle_alpha   85.80716966
+_cell_angle_beta   96.43507752
+_cell_angle_gamma   104.29236248
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSc2Nb2O8
+_chemical_formula_sum   'Mg1 Sc2 Nb2 O8'
+_cell_volume   167.49942975
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.66952520  0.90293066  0.33787687  1
+  Sc  Sc1  1  0.50948036  0.79219545  0.80746397  1
+  Sc  Sc2  1  0.42901135  0.30104034  0.42593837  1
+  Nb  Nb3  1  -0.00098630  0.28917043  0.85489487  1
+  Nb  Nb4  1  0.02298738  0.70001291  0.10187258  1
+  O  O5  1  0.75205156  0.52976296  0.84521760  1
+  O  O6  1  0.20745154  0.94367770  0.88096445  1
+  O  O7  1  0.78128242  0.00100266  0.04853420  1
+  O  O8  1  0.30019898  0.93142487  0.33070488  1
+  O  O9  1  0.70749288  0.08069910  0.61236920  1
+  O  O10  1  0.24031179  0.42836585  0.13738350  1
+  O  O11  1  0.25195646  0.44937127  0.65184386  1
+  O  O12  1  0.75423637  0.56284581  0.31910267  1

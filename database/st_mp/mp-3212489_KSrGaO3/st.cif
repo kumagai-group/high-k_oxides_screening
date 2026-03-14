@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KSrGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26743756
+_cell_length_b   6.26743682
+_cell_length_c   12.20091086
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   126.68896803
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrGaO3
+_chemical_formula_sum   'K4 Sr4 Ga4 O12'
+_cell_volume   384.31506677
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.46027393  0.53972607  0.64399902  1
+  K  K1  1  0.53972607  0.46027393  0.35600098  1
+  K  K2  1  0.03972607  0.96027393  0.14399902  1
+  K  K3  1  0.96027393  0.03972607  0.85600098  1
+  Sr  Sr4  1  0.64255823  0.35744177  0.92093646  1
+  Sr  Sr5  1  0.85744177  0.14255823  0.42093646  1
+  Sr  Sr6  1  0.14255823  0.85744177  0.57906354  1
+  Sr  Sr7  1  0.35744177  0.64255823  0.07906354  1
+  Ga  Ga8  1  0.22959186  0.77040814  0.33893290  1
+  Ga  Ga9  1  0.72959186  0.27040814  0.16106710  1
+  Ga  Ga10  1  0.77040814  0.22959186  0.66106710  1
+  Ga  Ga11  1  0.27040814  0.72959186  0.83893290  1
+  O  O12  1  0.96911300  0.53088700  0.75000000  1
+  O  O13  1  0.53088700  0.96911300  0.25000000  1
+  O  O14  1  0.03088700  0.46911300  0.25000000  1
+  O  O15  1  0.46911300  0.03088700  0.75000000  1
+  O  O16  1  0.42900508  0.57099492  0.87633897  1
+  O  O17  1  0.57099492  0.42900508  0.12366103  1
+  O  O18  1  0.07099492  0.92900508  0.37633897  1
+  O  O19  1  0.67282352  0.32717648  0.54004261  1
+  O  O20  1  0.17282352  0.82717648  0.95995739  1
+  O  O21  1  0.82717648  0.17282352  0.04004261  1
+  O  O22  1  0.32717648  0.67282352  0.45995739  1
+  O  O23  1  0.92900508  0.07099492  0.62366103  1

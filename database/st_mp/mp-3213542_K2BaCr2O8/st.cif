@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2BaCr2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90349883
+_cell_length_b   7.90349965
+_cell_length_c   7.90349946
+_cell_angle_alpha   42.35461878
+_cell_angle_beta   42.35461250
+_cell_angle_gamma   42.35461183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaCr2O8
+_chemical_formula_sum   'K2 Ba1 Cr2 O8'
+_cell_volume   202.84552511
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.20079491  0.20079491  0.20079491  1
+  K  K1  1  0.79920509  0.79920509  0.79920509  1
+  Ba  Ba2  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr3  1  0.40655773  0.40655773  0.40655773  1
+  Cr  Cr4  1  0.59344227  0.59344227  0.59344127  1
+  O  O5  1  0.72543224  0.72543224  0.25365550  1
+  O  O6  1  0.74634250  0.27456776  0.27456876  1
+  O  O7  1  0.27456776  0.74634250  0.27456876  1
+  O  O8  1  0.33003783  0.33003783  0.33003683  1
+  O  O9  1  0.66996217  0.66996217  0.66996217  1
+  O  O10  1  0.72543124  0.25365650  0.72543324  1
+  O  O11  1  0.25365650  0.72543124  0.72543324  1
+  O  O12  1  0.27456776  0.27456776  0.74634350  1

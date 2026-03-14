@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Na2MgGe2(SbO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32705595
+_cell_length_b   5.72164296
+_cell_length_c   7.23675680
+_cell_angle_alpha   110.82429746
+_cell_angle_beta   107.21847982
+_cell_angle_gamma   89.29191645
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgGe2(SbO5)2
+_chemical_formula_sum   'Na2 Mg1 Ge2 Sb2 O10'
+_cell_volume   232.62198227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.42339966  0.86890221  0.72292261  1
+  Na  Na1  1  0.59108561  0.20975520  0.20319603  1
+  Mg  Mg2  1  0.10001230  0.44174256  0.55085729  1
+  Ge  Ge3  1  0.28552312  0.60873293  0.20810818  1
+  Ge  Ge4  1  0.69057836  0.40402460  0.78241672  1
+  Sb  Sb5  1  0.85317616  0.88156231  0.42130107  1
+  Sb  Sb6  1  0.00481790  0.00561916  0.99818369  1
+  O  O7  1  0.01525023  0.83124112  0.70513807  1
+  O  O8  1  0.98794193  0.14436738  0.28244641  1
+  O  O9  1  0.12908192  0.66956811  0.38624983  1
+  O  O10  1  0.27969486  0.83285054  0.08738780  1
+  O  O11  1  0.84392910  0.29175220  0.60379387  1
+  O  O12  1  0.72554410  0.17657045  0.91037589  1
+  O  O13  1  0.40873518  0.40738102  0.67863536  1
+  O  O14  1  0.79879695  0.71426440  0.96836754  1
+  O  O15  1  0.55932483  0.62855123  0.37211481  1
+  O  O16  1  0.21977478  0.28787657  0.02921885  1

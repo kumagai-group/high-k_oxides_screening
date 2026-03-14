@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgNbAgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29061535
+_cell_length_b   4.29061535
+_cell_length_c   5.66798531
+_cell_angle_alpha   108.24641757
+_cell_angle_beta   108.24641757
+_cell_angle_gamma   92.14930910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNbAgO3
+_chemical_formula_sum   'Mg1 Nb1 Ag1 O3'
+_cell_volume   93.04611754
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.70692187  0.70692187  0.17202269  1
+  Nb  Nb1  1  0.14609806  0.14609806  0.84081129  1
+  Ag  Ag2  1  0.42955882  0.42955882  0.57341038  1
+  O  O3  1  0.55495857  0.09708464  0.06261491  1
+  O  O4  1  0.09708464  0.55495857  0.06261491  1
+  O  O5  1  0.81537805  0.81537805  0.55519283  1

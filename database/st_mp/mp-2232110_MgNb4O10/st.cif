@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MgNb4O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24906770
+_cell_length_b   5.53042799
+_cell_length_c   7.45379925
+_cell_angle_alpha   105.55314597
+_cell_angle_beta   109.41934807
+_cell_angle_gamma   89.18786259
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNb4O10
+_chemical_formula_sum   'Mg1 Nb4 O10'
+_cell_volume   195.92780464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.50000000  1
+  Nb  Nb1  1  0.36116900  0.31074800  0.22869500  1
+  Nb  Nb2  1  0.09791600  0.19311800  0.68456400  1
+  Nb  Nb3  1  0.63883100  0.68925200  0.77130500  1
+  Nb  Nb4  1  0.90208400  0.80688200  0.31543600  1
+  O  O5  1  0.75073400  0.36018100  0.62357100  1
+  O  O6  1  0.15716200  0.15439100  0.40443000  1
+  O  O7  1  0.24926600  0.63981900  0.37642900  1
+  O  O8  1  0.84283800  0.84560900  0.59557000  1
+  O  O9  1  0.87804200  0.77005000  0.02650600  1
+  O  O10  1  0.12195800  0.22995000  0.97349400  1
+  O  O11  1  0.34734900  0.51198900  0.78055800  1
+  O  O12  1  0.56917600  0.01056600  0.25547000  1
+  O  O13  1  0.65265100  0.48801100  0.21944200  1
+  O  O14  1  0.43082400  0.98943400  0.74453000  1

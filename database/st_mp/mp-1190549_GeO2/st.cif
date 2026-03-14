@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_GeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54141785
+_cell_length_b   7.54141785
+_cell_length_c   7.35979191
+_cell_angle_alpha   76.83898799
+_cell_angle_beta   76.83898799
+_cell_angle_gamma   121.50693675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeO2
+_chemical_formula_sum   'Ge8 O16'
+_cell_volume   315.74359406
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.32041362  0.04529043  0.43193722  1
+  Ge  Ge1  1  0.95470957  0.67958638  0.06806278  1
+  Ge  Ge2  1  0.67958638  0.95470957  0.56806278  1
+  Ge  Ge3  1  0.04529043  0.32041362  0.93193722  1
+  Ge  Ge4  1  0.37838160  0.19717051  0.95255790  1
+  Ge  Ge5  1  0.80282949  0.62161840  0.54744210  1
+  Ge  Ge6  1  0.62161840  0.80282949  0.04744210  1
+  Ge  Ge7  1  0.19717051  0.37838160  0.45255790  1
+  O  O8  1  0.50000000  0.00000000  0.50000000  1
+  O  O9  1  0.00000000  0.50000000  0.00000000  1
+  O  O10  1  0.64612777  0.35387223  0.75000000  1
+  O  O11  1  0.35387223  0.64612777  0.25000000  1
+  O  O12  1  0.03324913  0.81608691  0.59080645  1
+  O  O13  1  0.18391309  0.96675087  0.90919355  1
+  O  O14  1  0.96675087  0.18391309  0.40919355  1
+  O  O15  1  0.81608691  0.03324913  0.09080645  1
+  O  O16  1  0.39928076  0.08992146  0.17476528  1
+  O  O17  1  0.91007854  0.60071924  0.32523472  1
+  O  O18  1  0.60071924  0.91007854  0.82523472  1
+  O  O19  1  0.08992146  0.39928076  0.67476528  1
+  O  O20  1  0.71320131  0.63270805  0.03302754  1
+  O  O21  1  0.36729195  0.28679869  0.46697246  1
+  O  O22  1  0.28679869  0.36729195  0.96697246  1
+  O  O23  1  0.63270805  0.71320131  0.53302754  1

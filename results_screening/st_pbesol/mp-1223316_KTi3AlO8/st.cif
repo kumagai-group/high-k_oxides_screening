@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KTi3AlO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.94742270
+_cell_length_b   7.18934179
+_cell_length_c   7.25726091
+_cell_angle_alpha   92.44708920
+_cell_angle_beta   101.71598306
+_cell_angle_gamma   78.17157114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTi3AlO8
+_chemical_formula_sum   'K1 Ti3 Al1 O8'
+_cell_volume   147.38022711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.01745697  0.00723480  0.00384215  1
+  Ti  Ti1  1  0.34727780  0.51232763  0.16842150  1
+  Ti  Ti2  1  0.87786001  0.80615745  0.52341870  1
+  Ti  Ti3  1  0.17189013  0.18517295  0.49046932  1
+  Al  Al4  1  0.68528734  0.48457911  0.81667148  1
+  O  O5  1  0.97750115  0.37238280  0.28891555  1
+  O  O6  1  0.06398280  0.61949884  0.70897934  1
+  O  O7  1  0.68333683  0.29997088  0.62815727  1
+  O  O8  1  0.35181806  0.70778152  0.37295097  1
+  O  O9  1  0.71699149  0.64580010  0.04130591  1
+  O  O10  1  0.31336432  0.35811394  0.94636634  1
+  O  O11  1  0.67483041  0.05035195  0.36153784  1
+  O  O12  1  0.36840267  0.95062804  0.64896264  1

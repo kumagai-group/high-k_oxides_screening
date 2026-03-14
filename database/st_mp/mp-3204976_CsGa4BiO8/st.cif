@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsGa4BiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92002119
+_cell_length_b   6.92002107
+_cell_length_c   6.92002195
+_cell_angle_alpha   102.40109574
+_cell_angle_beta   93.62643695
+_cell_angle_gamma   136.21943525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGa4BiO8
+_chemical_formula_sum   'Cs1 Ga4 Bi1 O8'
+_cell_volume   211.92301335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.99072015  0.99072015  0.00000000  1
+  Ga  Ga1  1  0.37265943  0.84355985  0.12841263  1
+  Ga  Ga2  1  0.71514721  0.84355985  0.47090141  1
+  Ga  Ga3  1  0.37265843  0.24424580  0.52909859  1
+  Ga  Ga4  1  0.71514621  0.24424580  0.87158637  1
+  Bi  Bi5  1  0.10421187  0.60421187  0.50000000  1
+  O  O6  1  0.71968868  0.20515624  0.12710536  1
+  O  O7  1  0.40111417  0.64682375  0.24571058  1
+  O  O8  1  0.23146741  0.90612361  0.32534380  1
+  O  O9  1  0.07805089  0.20515524  0.48546757  1
+  O  O10  1  0.71968868  0.59258432  0.51453143  1
+  O  O11  1  0.58077981  0.90612361  0.67465620  1
+  O  O12  1  0.40111317  0.15540259  0.75428942  1
+  O  O13  1  0.07805089  0.59258332  0.87289464  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2MgNb2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31486148
+_cell_length_b   5.52105564
+_cell_length_c   6.31966230
+_cell_angle_alpha   60.16897440
+_cell_angle_beta   66.15722380
+_cell_angle_gamma   59.73619772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgNb2O6
+_chemical_formula_sum   'Na2 Mg1 Nb2 O6'
+_cell_volume   135.99780141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.37149900  0.40285600  0.87846700  1
+  Na  Na1  1  0.64003000  0.66346500  0.11046100  1
+  Mg  Mg2  1  0.00722700  0.03310000  0.99107500  1
+  Nb  Nb3  1  0.22137700  0.18919700  0.46027900  1
+  Nb  Nb4  1  0.79179000  0.87634000  0.52278100  1
+  O  O5  1  0.98738200  0.18168100  0.25504600  1
+  O  O6  1  0.18533200  0.60517400  0.26669900  1
+  O  O7  1  0.60229000  0.01420900  0.22486400  1
+  O  O8  1  0.02762300  0.88250900  0.72716400  1
+  O  O9  1  0.82854700  0.46010700  0.71205300  1
+  O  O10  1  0.41190200  0.05386400  0.75736000  1

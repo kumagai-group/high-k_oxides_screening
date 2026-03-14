@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu4AgBiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22705870
+_cell_length_b   6.22705966
+_cell_length_c   6.22705929
+_cell_angle_alpha   124.87064044
+_cell_angle_beta   124.87064351
+_cell_angle_gamma   81.75240866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu4AgBiO8
+_chemical_formula_sum   'Cu4 Ag1 Bi1 O8'
+_cell_volume   156.38493919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.87552636  0.61832547  0.24367562  1
+  Cu  Cu1  1  0.37464985  0.63185174  0.75632438  1
+  Cu  Cu2  1  0.36814826  0.12447364  0.74279912  1
+  Cu  Cu3  1  0.38167453  0.62535015  0.25720088  1
+  Ag  Ag4  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi5  1  0.75000000  0.25000000  0.50000000  1
+  O  O6  1  0.42233723  0.82677706  0.14593493  1
+  O  O7  1  0.68084113  0.27640130  0.85406507  1
+  O  O8  1  0.33768240  0.42642283  0.36946808  1
+  O  O9  1  0.05695475  0.96821432  0.63053192  1
+  O  O10  1  0.03178568  0.66231760  0.08874143  1
+  O  O11  1  0.57357717  0.94304525  0.91125857  1
+  O  O12  1  0.17322294  0.31915887  0.59556117  1
+  O  O13  1  0.72359870  0.57766277  0.40443883  1

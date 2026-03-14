@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaMgTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72940144
+_cell_length_b   5.26923495
+_cell_length_c   5.26923430
+_cell_angle_alpha   107.32455536
+_cell_angle_beta   107.42532569
+_cell_angle_gamma   72.57467316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMgTiO3
+_chemical_formula_sum   'Ba1 Mg1 Ti1 O3'
+_cell_volume   116.36990826
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.03231002  0.04346872  0.95653128  1
+  Mg  Mg1  1  0.32153305  0.34701665  0.65298335  1
+  Ti  Ti2  1  0.59015334  0.58536575  0.41463425  1
+  O  O3  1  0.48462036  0.43046331  0.05084770  1
+  O  O4  1  0.48462036  0.94915230  0.56953669  1
+  O  O5  1  0.88676288  0.37443327  0.62556673  1

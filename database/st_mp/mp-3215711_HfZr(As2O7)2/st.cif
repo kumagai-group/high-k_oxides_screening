@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HfZr(As2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47992332
+_cell_length_b   5.45375286
+_cell_length_c   9.82663567
+_cell_angle_alpha   81.53975363
+_cell_angle_beta   81.36752535
+_cell_angle_gamma   98.47489208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr(As2O7)2
+_chemical_formula_sum   'Hf1 Zr1 As4 O14'
+_cell_volume   282.84894998
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.00000000  1
+  Zr  Zr1  1  0.00000000  0.00000000  0.50000000  1
+  As  As2  1  0.17308437  0.44738168  0.20010925  1
+  As  As3  1  0.44575003  0.17397084  0.70314272  1
+  As  As4  1  0.55424997  0.82602916  0.29685728  1
+  As  As5  1  0.82691563  0.55261832  0.79989075  1
+  O  O6  1  0.08388801  0.71089519  0.13076812  1
+  O  O7  1  0.77819892  0.74252669  0.91590842  1
+  O  O8  1  0.30145304  0.98191529  0.85136372  1
+  O  O9  1  0.01798030  0.69451235  0.65089893  1
+  O  O10  1  0.46615684  0.53307118  0.24782887  1
+  O  O11  1  0.70753990  0.08258230  0.63343406  1
+  O  O12  1  0.74100905  0.77535250  0.41366410  1
+  O  O13  1  0.25899095  0.22464750  0.58633590  1
+  O  O14  1  0.22180108  0.25747331  0.08409158  1
+  O  O15  1  0.69854696  0.01808471  0.14863628  1
+  O  O16  1  0.91611199  0.28910481  0.86923188  1
+  O  O17  1  0.98201970  0.30548765  0.34910107  1
+  O  O18  1  0.29246010  0.91741770  0.36656594  1
+  O  O19  1  0.53384316  0.46692882  0.75217113  1

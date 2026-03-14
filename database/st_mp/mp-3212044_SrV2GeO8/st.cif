@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrV2GeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01718487
+_cell_length_b   5.01718431
+_cell_length_c   7.16958586
+_cell_angle_alpha   87.66680392
+_cell_angle_beta   87.66680699
+_cell_angle_gamma   66.80252007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrV2GeO8
+_chemical_formula_sum   'Sr1 V2 Ge1 O8'
+_cell_volume   165.68564625
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.50000000  1
+  V  V1  1  0.36989353  0.36989353  0.78909385  1
+  V  V2  1  0.63010647  0.63010647  0.21090615  1
+  Ge  Ge3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.30290401  0.30290401  0.57474179  1
+  O  O5  1  0.69709599  0.69709599  0.42525821  1
+  O  O6  1  0.74976729  0.21887054  0.80984172  1
+  O  O7  1  0.25023271  0.78112946  0.19015828  1
+  O  O8  1  0.78112946  0.25023271  0.19015828  1
+  O  O9  1  0.21887054  0.74976729  0.80984172  1
+  O  O10  1  0.22135817  0.22135817  0.95818485  1
+  O  O11  1  0.77864183  0.77864183  0.04181515  1

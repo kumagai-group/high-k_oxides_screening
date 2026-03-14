@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cs2Rb4Zn2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00997399
+_cell_length_b   6.98934660
+_cell_length_c   7.00997298
+_cell_angle_alpha   90.57800891
+_cell_angle_beta   119.03271956
+_cell_angle_gamma   90.57798512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Rb4Zn2O5
+_chemical_formula_sum   'Cs2 Rb4 Zn2 O5'
+_cell_volume   300.23763855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.66152943  0.80088553  0.66152943  1
+  Cs  Cs1  1  0.33847157  0.19911147  0.33847157  1
+  Rb  Rb2  1  0.23204476  0.50000200  0.76795324  1
+  Rb  Rb3  1  0.76795424  0.50000100  0.23204476  1
+  Rb  Rb4  1  0.77912840  0.00000000  0.22087460  1
+  Rb  Rb5  1  0.22087460  1.00000000  0.77912840  1
+  Zn  Zn6  1  0.19983644  0.69007344  0.19983844  1
+  Zn  Zn7  1  0.80016256  0.30992656  0.80016256  1
+  O  O8  1  0.99999900  0.50000000  0.99999900  1
+  O  O9  1  0.15984876  0.77223589  0.43392162  1
+  O  O10  1  0.56607938  0.22776311  0.84015024  1
+  O  O11  1  0.84015024  0.22776311  0.56607938  1
+  O  O12  1  0.43392162  0.77223689  0.15984876  1

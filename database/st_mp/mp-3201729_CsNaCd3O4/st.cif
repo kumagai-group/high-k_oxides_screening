@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsNaCd3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76044168
+_cell_length_b   6.76044123
+_cell_length_c   9.12740957
+_cell_angle_alpha   47.31168176
+_cell_angle_beta   47.31168508
+_cell_angle_gamma   32.47407358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaCd3O4
+_chemical_formula_sum   'Cs1 Na1 Cd3 O4'
+_cell_volume   158.58441250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.99429183  0.99429183  0.00654341  1
+  Na  Na1  1  0.18042098  0.18042098  0.44943844  1
+  Cd  Cd2  1  0.80769687  0.80769687  0.55570378  1
+  Cd  Cd3  1  0.37879852  0.37879852  0.80065344  1
+  Cd  Cd4  1  0.63136248  0.63136248  0.19116842  1
+  O  O5  1  0.23361989  0.23361989  0.15268920  1
+  O  O6  1  0.77184088  0.77184088  0.83062904  1
+  O  O7  1  0.60171854  0.60171854  0.63753397  1
+  O  O8  1  0.40024800  0.40024800  0.37564031  1

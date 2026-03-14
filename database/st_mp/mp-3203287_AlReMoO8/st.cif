@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_AlReMoO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52438195
+_cell_length_b   5.52447254
+_cell_length_c   6.12366574
+_cell_angle_alpha   89.99994680
+_cell_angle_beta   89.99357764
+_cell_angle_gamma   120.00145597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlReMoO8
+_chemical_formula_sum   'Al1 Re1 Mo1 O8'
+_cell_volume   161.84908521
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.99998844  0.99999143  0.01574664  1
+  Re  Re1  1  0.66679541  0.33341395  0.72590965  1
+  Mo  Mo2  1  0.33321802  0.66659794  0.27497035  1
+  O  O3  1  0.33328318  0.66665603  0.55556345  1
+  O  O4  1  0.66667059  0.33329504  0.44617587  1
+  O  O5  1  0.67981458  0.83987655  0.17431220  1
+  O  O6  1  0.15987426  0.83986373  0.17442296  1
+  O  O7  1  0.15988072  0.31996377  0.17447600  1
+  O  O8  1  0.32172962  0.16089481  0.81959924  1
+  O  O9  1  0.83936810  0.16088239  0.81945250  1
+  O  O10  1  0.83937507  0.67856436  0.81937313  1

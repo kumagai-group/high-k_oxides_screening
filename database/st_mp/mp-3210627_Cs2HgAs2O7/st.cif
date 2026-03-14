@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cs2HgAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93398660
+_cell_length_b   7.93398658
+_cell_length_c   10.72682288
+_cell_angle_alpha   79.41378478
+_cell_angle_beta   79.41378529
+_cell_angle_gamma   120.53422844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2HgAs2O7
+_chemical_formula_sum   'Cs4 Hg2 As4 O14'
+_cell_volume   540.22277802
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.37090322  0.46956328  0.13318167  1
+  Cs  Cs1  1  0.46956328  0.37090322  0.63318167  1
+  Cs  Cs2  1  0.59987280  0.01376407  0.31359132  1
+  Cs  Cs3  1  0.01376407  0.59987280  0.81359132  1
+  Hg  Hg4  1  0.05561927  0.79780993  0.29676463  1
+  Hg  Hg5  1  0.79780993  0.05561927  0.79676463  1
+  As  As6  1  0.37911463  0.97226228  0.98634421  1
+  As  As7  1  0.97226228  0.37911463  0.48634421  1
+  As  As8  1  0.02007897  0.05271502  0.00413202  1
+  As  As9  1  0.05271502  0.02007897  0.50413202  1
+  O  O10  1  0.29300276  0.13841324  0.40021186  1
+  O  O11  1  0.13841324  0.29300276  0.90021186  1
+  O  O12  1  0.94158817  0.15520828  0.45195936  1
+  O  O13  1  0.15520828  0.94158817  0.95195936  1
+  O  O14  1  0.55508966  0.22001621  0.96071444  1
+  O  O15  1  0.22001621  0.55508966  0.46071444  1
+  O  O16  1  0.99475603  0.02891124  0.16674569  1
+  O  O17  1  0.02891124  0.99475603  0.66674569  1
+  O  O18  1  0.78763609  0.88842860  0.98580887  1
+  O  O19  1  0.88842860  0.78763609  0.48580887  1
+  O  O20  1  0.43052493  0.85244717  0.88631732  1
+  O  O21  1  0.85244717  0.43052493  0.38631732  1
+  O  O22  1  0.29156587  0.81748827  0.14917863  1
+  O  O23  1  0.81748827  0.29156587  0.64917863  1

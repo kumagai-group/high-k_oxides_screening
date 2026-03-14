@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrMg(SbO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70671253
+_cell_length_b   5.71382666
+_cell_length_c   5.39178118
+_cell_angle_alpha   90.02993371
+_cell_angle_beta   89.98500984
+_cell_angle_gamma   120.04125287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMg(SbO3)2
+_chemical_formula_sum   'Sr1 Mg1 Sb2 O6'
+_cell_volume   152.19318487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00155200  0.00077600  0.00000000  1
+  Mg  Mg1  1  0.66924400  0.33462200  0.00000000  1
+  Sb  Sb2  1  0.33407700  0.66703900  0.50000000  1
+  Sb  Sb3  1  0.66667100  0.33333500  0.50000000  1
+  O  O4  1  0.39986000  0.35367600  0.73333900  1
+  O  O5  1  0.64733300  0.04683700  0.73319800  1
+  O  O6  1  0.95453500  0.60087000  0.73309900  1
+  O  O7  1  0.39986000  0.04618500  0.26666100  1
+  O  O8  1  0.95453500  0.35366500  0.26690100  1
+  O  O9  1  0.64733300  0.60049600  0.26680200  1

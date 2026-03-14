@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Rb3AlGe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52412105
+_cell_length_b   9.52408286
+_cell_length_c   7.53962003
+_cell_angle_alpha   72.98966955
+_cell_angle_beta   72.99023330
+_cell_angle_gamma   121.66087826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3AlGe2O7
+_chemical_formula_sum   'Rb6 Al2 Ge4 O14'
+_cell_volume   465.60593685
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.58302994  0.97609309  0.74540523  1
+  Rb  Rb1  1  0.00726990  0.99273367  0.75000232  1
+  Rb  Rb2  1  0.97608382  0.58301351  0.24541366  1
+  Rb  Rb3  1  0.99273010  0.00726633  0.24999768  1
+  Rb  Rb4  1  0.02391618  0.41698649  0.75458634  1
+  Rb  Rb5  1  0.41697006  0.02390691  0.25459477  1
+  Al  Al6  1  0.43833211  0.56165801  0.75000013  1
+  Al  Al7  1  0.56166789  0.43834199  0.24999987  1
+  Ge  Ge8  1  0.77349351  0.56951030  0.75554521  1
+  Ge  Ge9  1  0.43048649  0.22649863  0.74445192  1
+  Ge  Ge10  1  0.56951351  0.77350137  0.25554808  1
+  Ge  Ge11  1  0.22650649  0.43048970  0.24445479  1
+  O  O12  1  0.66129364  0.66857497  0.73451181  1
+  O  O13  1  0.66857526  0.66130152  0.23451598  1
+  O  O14  1  0.51812723  0.26423971  0.47893250  1
+  O  O15  1  0.33142474  0.33869848  0.76548402  1
+  O  O16  1  0.98345688  0.26118337  0.45499819  1
+  O  O17  1  0.48187277  0.73576029  0.52106750  1
+  O  O18  1  0.26119124  0.98344161  0.95500981  1
+  O  O19  1  0.26424376  0.51812706  0.97892970  1
+  O  O20  1  0.35066316  0.64934064  0.25000070  1
+  O  O21  1  0.33870636  0.33142503  0.26548819  1
+  O  O22  1  0.73880876  0.01655839  0.04499019  1
+  O  O23  1  0.64933684  0.35065936  0.74999930  1
+  O  O24  1  0.01654312  0.73881663  0.54500181  1
+  O  O25  1  0.73575624  0.48187294  0.02107030  1

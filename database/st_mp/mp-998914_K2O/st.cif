@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_K2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25543619
+_cell_length_b   4.25543619
+_cell_length_c   9.62648462
+_cell_angle_alpha   103.45985692
+_cell_angle_beta   76.54014308
+_cell_angle_gamma   119.89516979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2O
+_chemical_formula_sum   'K4 O2'
+_cell_volume   145.56083093
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.11571754  0.88428246  0.66987409  1
+  K  K1  1  0.29662202  0.70337798  0.10434004  1
+  K  K2  1  0.70337798  0.29662202  0.89565996  1
+  K  K3  1  0.88428246  0.11571754  0.33012591  1
+  O  O4  1  0.59204940  0.40795060  0.21246342  1
+  O  O5  1  0.40795060  0.59204940  0.78753658  1

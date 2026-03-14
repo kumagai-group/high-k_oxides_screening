@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Y2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78225934
+_cell_length_b   6.03196199
+_cell_length_c   5.78225836
+_cell_angle_alpha   118.63978926
+_cell_angle_beta   60.00001186
+_cell_angle_gamma   118.63978868
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2O3
+_chemical_formula_sum   'Y4 O6'
+_cell_volume   145.46822333
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.14169881  0.42509542  0.14169881  1
+  Y  Y1  1  0.35830119  0.07490458  0.35830119  1
+  Y  Y2  1  0.64169781  0.92509442  0.64169781  1
+  Y  Y3  1  0.85830219  0.57490558  0.85830219  1
+  O  O4  1  0.25000000  0.75000000  0.54282692  1
+  O  O5  1  0.04282692  0.25000000  0.75000000  1
+  O  O6  1  0.45717308  0.25000000  0.04282692  1
+  O  O7  1  0.54282692  0.75000000  0.95717308  1
+  O  O8  1  0.95717308  0.75000000  0.25000000  1
+  O  O9  1  0.75000000  0.25000000  0.45717308  1

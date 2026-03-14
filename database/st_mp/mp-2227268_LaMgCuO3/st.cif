@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaMgCuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64286580
+_cell_length_b   4.33899464
+_cell_length_c   4.33899464
+_cell_angle_alpha   90.22319132
+_cell_angle_beta   83.33102866
+_cell_angle_gamma   83.33102866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMgCuO3
+_chemical_formula_sum   'La1 Mg1 Cu1 O3'
+_cell_volume   104.78844738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.18994042  0.40205641  0.40205641  1
+  Mg  Mg1  1  0.80623635  0.92402277  0.92402277  1
+  Cu  Cu2  1  0.26241471  0.87019942  0.87019942  1
+  O  O3  1  0.48007664  0.06328697  0.06328697  1
+  O  O4  1  0.01399944  0.52727211  0.96316233  1
+  O  O5  1  0.01399944  0.96316233  0.52727211  1

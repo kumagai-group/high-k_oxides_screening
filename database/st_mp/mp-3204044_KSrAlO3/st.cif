@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KSrAlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18083213
+_cell_length_b   6.18083219
+_cell_length_c   12.14718656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   127.04376554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrAlO3
+_chemical_formula_sum   'K4 Sr4 Al4 O12'
+_cell_volume   370.39749253
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.45686975  0.54313025  0.64134977  1
+  K  K1  1  0.54313025  0.45686975  0.35865023  1
+  K  K2  1  0.04313025  0.95686975  0.14134977  1
+  K  K3  1  0.95686975  0.04313025  0.85865023  1
+  Sr  Sr4  1  0.64365497  0.35634503  0.92192042  1
+  Sr  Sr5  1  0.85634503  0.14365497  0.42192042  1
+  Sr  Sr6  1  0.14365497  0.85634503  0.57807958  1
+  Sr  Sr7  1  0.35634503  0.64365497  0.07807958  1
+  Al  Al8  1  0.22689262  0.77310738  0.33481271  1
+  Al  Al9  1  0.72689262  0.27310738  0.16518729  1
+  Al  Al10  1  0.77310738  0.22689262  0.66518729  1
+  Al  Al11  1  0.27310738  0.72689262  0.83481271  1
+  O  O12  1  0.98677511  0.51322489  0.75000000  1
+  O  O13  1  0.51322489  0.98677511  0.25000000  1
+  O  O14  1  0.01322489  0.48677511  0.25000000  1
+  O  O15  1  0.48677511  0.01322489  0.75000000  1
+  O  O16  1  0.42506340  0.57493660  0.87703989  1
+  O  O17  1  0.57493660  0.42506340  0.12296011  1
+  O  O18  1  0.07493660  0.92506340  0.37703989  1
+  O  O19  1  0.67682232  0.32317768  0.55077114  1
+  O  O20  1  0.17682232  0.82317768  0.94922886  1
+  O  O21  1  0.82317768  0.17682232  0.05077114  1
+  O  O22  1  0.32317768  0.67682232  0.44922886  1
+  O  O23  1  0.92506340  0.07493660  0.62296011  1

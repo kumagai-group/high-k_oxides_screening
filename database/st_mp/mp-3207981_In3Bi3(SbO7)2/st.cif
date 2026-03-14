@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_In3Bi3(SbO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37259645
+_cell_length_b   6.48623711
+_cell_length_c   7.48484125
+_cell_angle_alpha   107.08530963
+_cell_angle_beta   89.50789325
+_cell_angle_gamma   99.04682592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Bi3(SbO7)2
+_chemical_formula_sum   'In3 Bi3 Sb2 O14'
+_cell_volume   291.81563081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.53322960  0.99204946  0.74884816  1
+  In  In1  1  0.46529182  0.00049647  0.24896167  1
+  In  In2  1  0.25936229  0.52794403  0.88424866  1
+  Bi  Bi3  1  0.74293354  0.46820668  0.10991504  1
+  Bi  Bi4  1  0.73062660  0.46542602  0.61460130  1
+  Bi  Bi5  1  0.25017958  0.52439294  0.38440075  1
+  Sb  Sb6  1  0.00371620  0.00643368  0.50321631  1
+  Sb  Sb7  1  0.00807851  0.00137687  0.99970041  1
+  O  O8  1  0.43457972  0.65767703  0.15692182  1
+  O  O9  1  0.53929516  0.33272539  0.81876053  1
+  O  O10  1  0.30269415  0.95384111  0.95847077  1
+  O  O11  1  0.71232812  0.04522220  0.04924585  1
+  O  O12  1  0.29194618  0.92645177  0.51138455  1
+  O  O13  1  0.71100737  0.07373677  0.48756773  1
+  O  O14  1  0.52452824  0.34443058  0.34561449  1
+  O  O15  1  0.45486346  0.65003053  0.67357839  1
+  O  O16  1  0.95065942  0.67608115  0.95121369  1
+  O  O17  1  0.08133033  0.32422361  0.04324868  1
+  O  O18  1  0.09702643  0.32278139  0.62622749  1
+  O  O19  1  0.90346805  0.69314451  0.37881545  1
+  O  O20  1  0.90178517  0.94383332  0.73646046  1
+  O  O21  1  0.10106906  0.06949649  0.26859882  1

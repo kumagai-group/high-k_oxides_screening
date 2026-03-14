@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCr2InO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18521477
+_cell_length_b   5.18521630
+_cell_length_c   6.96841453
+_cell_angle_alpha   89.61850498
+_cell_angle_beta   89.61850368
+_cell_angle_gamma   66.03268042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCr2InO8
+_chemical_formula_sum   'Na1 Cr2 In1 O8'
+_cell_volume   171.19626252
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr1  1  0.36042847  0.36042847  0.23615418  1
+  Cr  Cr2  1  0.63957053  0.63957053  0.76384582  1
+  In  In3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.24296385  0.24296385  0.05261781  1
+  O  O5  1  0.71440527  0.22634606  0.22536603  1
+  O  O6  1  0.22634606  0.71440527  0.22536603  1
+  O  O7  1  0.26702339  0.26702339  0.43430202  1
+  O  O8  1  0.73297461  0.73297461  0.56569698  1
+  O  O9  1  0.77365494  0.28559473  0.77463497  1
+  O  O10  1  0.28559473  0.77365494  0.77463497  1
+  O  O11  1  0.75703515  0.75703515  0.94738219  1

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Hf3Ti2(PbO3)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.07780348
+_cell_length_b   9.07780348
+_cell_length_c   7.02669492
+_cell_angle_alpha   75.94602662
+_cell_angle_beta   75.94602662
+_cell_angle_gamma   36.66997753
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Ti2(PbO3)5
+_chemical_formula_sum   'Hf3 Ti2 Pb5 O15'
+_cell_volume   334.30154004
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00010342  0.00010342  0.99626518  1
+  Hf  Hf1  1  0.60212897  0.60212897  0.60108292  1
+  Hf  Hf2  1  0.20405457  0.20405457  0.19744111  1
+  Ti  Ti3  1  0.80463083  0.80463083  0.78936354  1
+  Ti  Ti4  1  0.40423800  0.40423800  0.38712052  1
+  Pb  Pb5  1  0.81503705  0.81503705  0.26848084  1
+  Pb  Pb6  1  0.01590793  0.01590793  0.46972386  1
+  Pb  Pb7  1  0.62364625  0.62364625  0.07538610  1
+  Pb  Pb8  1  0.22421812  0.22421812  0.68147616  1
+  Pb  Pb9  1  0.41078171  0.41078171  0.85180917  1
+  O  O10  1  0.69767067  0.69767067  0.71851333  1
+  O  O11  1  0.29566977  0.29566977  0.33337512  1
+  O  O12  1  0.88823540  0.88823540  0.92515767  1
+  O  O13  1  0.48954101  0.48954101  0.51344455  1
+  O  O14  1  0.09446597  0.09446597  0.11491614  1
+  O  O15  1  0.50912713  0.98127639  0.00415339  1
+  O  O16  1  0.10147593  0.58654178  0.62034699  1
+  O  O17  1  0.69518993  0.18296261  0.22056525  1
+  O  O18  1  0.29600604  0.78013707  0.80323079  1
+  O  O19  1  0.89733376  0.38441772  0.40132548  1
+  O  O20  1  0.98127639  0.50912713  0.00415339  1
+  O  O21  1  0.58654178  0.10147593  0.62034699  1
+  O  O22  1  0.18296261  0.69518993  0.22056525  1
+  O  O23  1  0.78013707  0.29600604  0.80323079  1
+  O  O24  1  0.38441772  0.89733376  0.40132548  1

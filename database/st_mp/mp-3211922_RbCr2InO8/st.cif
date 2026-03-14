@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_RbCr2InO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67014187
+_cell_length_b   9.31311984
+_cell_length_c   8.80819514
+_cell_angle_alpha   67.42603632
+_cell_angle_beta   89.99898301
+_cell_angle_gamma   107.71832058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCr2InO8
+_chemical_formula_sum   'Rb2 Cr4 In2 O16'
+_cell_volume   405.49620602
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50003160  0.99998534  0.50003234  1
+  Rb  Rb1  1  0.99998471  0.00001398  0.99997619  1
+  Cr  Cr2  1  0.64762020  0.29505138  0.97171708  1
+  Cr  Cr3  1  0.14761823  0.29501492  0.47168702  1
+  Cr  Cr4  1  0.85237502  0.70494446  0.52828874  1
+  Cr  Cr5  1  0.35238769  0.70499406  0.02830369  1
+  In  In6  1  0.74997842  0.50000186  0.24999948  1
+  In  In7  1  0.25000683  0.49999599  0.74999626  1
+  O  O8  1  0.55909504  0.11767833  0.12461221  1
+  O  O9  1  0.05904685  0.11762035  0.62457309  1
+  O  O10  1  0.94089431  0.88231028  0.37539388  1
+  O  O11  1  0.44095980  0.88240059  0.87543224  1
+  O  O12  1  0.72329524  0.44631496  0.03434677  1
+  O  O13  1  0.22325817  0.44620944  0.53439907  1
+  O  O14  1  0.77669377  0.55367818  0.46565789  1
+  O  O15  1  0.27674911  0.55380340  0.96558600  1
+  O  O16  1  0.89667269  0.31043409  0.85770462  1
+  O  O17  1  0.39665959  0.31041448  0.35774594  1
+  O  O18  1  0.60332379  0.68955031  0.64231439  1
+  O  O19  1  0.10334417  0.68958893  0.14224718  1
+  O  O20  1  0.41376598  0.31040920  0.85781286  1
+  O  O21  1  0.91383023  0.31042193  0.35782084  1
+  O  O22  1  0.08624048  0.68958516  0.64217558  1
+  O  O23  1  0.58616808  0.68957939  0.14217465  1

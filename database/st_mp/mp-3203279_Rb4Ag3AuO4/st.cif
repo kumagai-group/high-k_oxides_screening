@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb4Ag3AuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60504178
+_cell_length_b   7.60504121
+_cell_length_c   7.72422403
+_cell_angle_alpha   98.22868435
+_cell_angle_beta   98.22868792
+_cell_angle_gamma   135.17514009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4Ag3AuO4
+_chemical_formula_sum   'Rb4 Ag3 Au1 O4'
+_cell_volume   291.89674185
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.18762712  0.49775929  0.68538641  1
+  Rb  Rb1  1  0.49775929  0.18762712  0.68538641  1
+  Rb  Rb2  1  0.50310333  0.81293895  0.31604228  1
+  Rb  Rb3  1  0.81293895  0.50310333  0.31604228  1
+  Ag  Ag4  1  0.85558662  0.85558662  0.71117323  1
+  Ag  Ag5  1  0.14605561  0.85212478  0.99818139  1
+  Ag  Ag6  1  0.85212478  0.14605561  0.99818139  1
+  Au  Au7  1  0.14608165  0.14608165  0.29216229  1
+  O  O8  1  0.71009040  0.00173617  0.71182757  1
+  O  O9  1  0.00173617  0.71009040  0.71182757  1
+  O  O10  1  0.99936314  0.28753094  0.28689508  1
+  O  O11  1  0.28753094  0.99936314  0.28689508  1

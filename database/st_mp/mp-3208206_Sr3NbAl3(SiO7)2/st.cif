@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Sr3NbAl3(SiO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24530287
+_cell_length_b   8.24530387
+_cell_length_c   5.01771904
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3NbAl3(SiO7)2
+_chemical_formula_sum   'Sr3 Nb1 Al3 Si2 O14'
+_cell_volume   295.42702178
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.42619325  0.00000000  0.00000000  1
+  Sr  Sr1  1  0.57380675  0.57380675  0.00000000  1
+  Sr  Sr2  1  0.00000000  0.42619325  0.00000000  1
+  Nb  Nb3  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al4  1  0.74052646  1.00000000  0.50000000  1
+  Al  Al5  1  0.25947354  0.25947354  0.50000000  1
+  Al  Al6  1  1.00000000  0.74052646  0.50000000  1
+  Si  Si7  1  0.66666700  0.33333300  0.52924135  1
+  Si  Si8  1  0.33333300  0.66666700  0.47075865  1
+  O  O9  1  0.66666700  0.33333300  0.21064817  1
+  O  O10  1  0.33333300  0.66666700  0.78935183  1
+  O  O11  1  0.16439165  0.69253651  0.34120063  1
+  O  O12  1  0.52814386  0.83560835  0.34120063  1
+  O  O13  1  0.30746349  0.47185614  0.34120063  1
+  O  O14  1  0.83560835  0.52814386  0.65879937  1
+  O  O15  1  0.69253651  0.16439165  0.65879937  1
+  O  O16  1  0.47185614  0.30746349  0.65879937  1
+  O  O17  1  0.12101747  0.89609070  0.76162239  1
+  O  O18  1  0.77507223  0.87898253  0.76162239  1
+  O  O19  1  0.10390930  0.22492777  0.76162239  1
+  O  O20  1  0.87898253  0.77507223  0.23837761  1
+  O  O21  1  0.89609070  0.12101747  0.23837761  1
+  O  O22  1  0.22492777  0.10390930  0.23837761  1
