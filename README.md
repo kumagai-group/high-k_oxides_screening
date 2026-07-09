@@ -14,7 +14,7 @@ This repository contains the **data and source codes** used in the following pap
 ```text
 .
 ├── common/             # Utility functions and shared modules
-├── dataset/            # Training datasets and screening datasets
+├── database/           # Training datasets and screening datasets
 ├── model/              # Machine learning models and training routines
 ├── phonon/             # Phonon calculations and feature generation
 ├── run_cv.py           # Script for k-fold cross-validation
@@ -27,13 +27,13 @@ This repository contains the **data and source codes** used in the following pap
 
 ## Dataset
 
-The `dataset` directory contains:
+The `database` directory contains:
 
 - **Training dataset:** Data for **928 oxides** used to train the machine learning model.
 
 The dataset was originally constructed in our previous work [1,2].
 
-- **Screening dataset:** Data for **8,171 oxides** collected from the Materials Project [3] database for large-scale screening.
+- **Screening dataset:** Data for **8,717 oxides** collected from the Materials Project [3] database for large-scale screening.
 
 ### Training Dataset
 
