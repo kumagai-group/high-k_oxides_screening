@@ -17,6 +17,7 @@ This repository contains the **data and source codes** used in the following pap
 ├── database/           # Training datasets and screening datasets
 ├── model/              # Machine learning models and training routines
 ├── phonon/             # Phonon calculations and feature generation
+├── plot_map_eg_vs_totd.py  # Script for plotting the Eg (DDH) vs total dielectric constant (PBEsol) map
 ├── run_cv.py           # Script for k-fold cross-validation
 ├── run_fulltrain.py    # Script for training using the full dataset
 ├── results_screening   # First-principles calculation results for screened candidate materials
