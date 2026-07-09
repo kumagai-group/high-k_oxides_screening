@@ -4,7 +4,7 @@ This repository contains the **data and source codes** used in the following pap
 
 > **Physics-Based Factorized Machine Learning for Predicting Ionic Dielectric Tensors**
 > Atsushi Takigawa, Shin Kiyohara, and Yu Kumagai  
-> Phys. Rev. X (in press)
+> Phys. Rev. X 16, 021006 (2026)
 > https://doi.org/10.1103/28wr-w896
 
 ---
