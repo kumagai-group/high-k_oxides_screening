@@ -3,29 +3,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
-import matplotlib.colors as mcolors
 from matplotlib.ticker import MultipleLocator
 
 plt.rcParams.update({'font.size': 24})
-
-
-def add_fom_contours(ax, contour_Cs, cvmin, cvmax, x_max, label_y0, cmap="viridis_r"):
-    """Draw iso-FoM curves (y = C / x) colored consistently with the colormap"""
-    norm = mcolors.Normalize(vmin=cvmin, vmax=cvmax)
-    cmap = plt.get_cmap(cmap)
-    x_line = np.linspace(1., x_max, 400)
-    for i, C in enumerate(contour_Cs):
-        y_line = C / x_line
-        color = cmap(norm(C))
-        ax.plot(x_line, y_line, color=color, linestyle="-", linewidth=1.5, zorder=0)
-        # stagger label heights so that neighboring labels do not overlap
-        label_y = label_y0 - 0.7 * i
-        ax.text(
-            C / label_y, label_y, f"{C}",
-            color=color, fontsize=12, fontweight='bold',
-            ha='left', va='bottom',
-            bbox=dict(facecolor='white', edgecolor='none', alpha=0.5, pad=1),
-        )
 
 
 def load_data(matnames_path, bandgap_dir, diele_dir):
@@ -68,27 +48,17 @@ save_stem = "results_screening/map_eg_ddh_vs_totd_pbesol"
 train_df.to_csv(f"{save_stem}_train.csv", index=False)
 screened_df.to_csv(f"{save_stem}_screened.csv", index=False)
 
-""" Plot the map (colored by FoM = Eg * total dielectric constant) """
-cvmin = 0.
-cvmax = float(max(train_df["fom"].max(), screened_df["fom"].max()))
-
+""" Plot the map """
 fig = plt.figure(figsize=(9, 6))
 ax = fig.add_subplot(111)
 
-add_fom_contours(
-    ax, contour_Cs=[500, 1000, 1500, 2000, 2500],
-    cvmin=cvmin, cvmax=cvmax, x_max=700., label_y0=11.3,
-)
-
-sc = ax.scatter(
+ax.scatter(
     train_df["totd"], train_df["bandgap"],
-    s=50, c=train_df["fom"], cmap="viridis_r", vmin=cvmin, vmax=cvmax,
-    alpha=0.5, edgecolor="none",
+    s=50, color="gold", alpha=0.5, edgecolor="none",
 )
 ax.scatter(
     screened_df["totd"], screened_df["bandgap"],
-    s=50, c=screened_df["fom"], cmap="viridis_r", vmin=cvmin, vmax=cvmax,
-    alpha=0.8, marker="D", edgecolor="black",
+    s=50, color="crimson", alpha=0.8, marker="D", edgecolor="black",
 )
 
 """ Annotate the best-FoM candidate with its composition """
@@ -118,16 +88,8 @@ ax.xaxis.set_major_locator(MultipleLocator(200))
 train_marker = mlines.Line2D([], [], color='none', marker='o', markersize=10,
                              markerfacecolor='gold', markeredgecolor="none", label='Train')
 screen_marker = mlines.Line2D([], [], color='none', marker='D', markersize=10,
-                              markerfacecolor='gold', markeredgecolor="black", label='Candidates')
+                              markerfacecolor='crimson', markeredgecolor="black", label='Candidates')
 ax.legend(handles=[train_marker, screen_marker], fontsize=18, frameon=False)
-
-cbar = plt.colorbar(sc, ax=ax)
-cbar.set_label(r"$\mathrm{FoM}$ ($=E_{\mathrm{g}}^{\mathrm{DDH}} * \epsilon^{\mathrm{total}}_{\mathrm{ave}}$)", fontsize=20)
-try:
-    cbar.solids.set_alpha(1)
-except AttributeError:
-    for coll in cbar.ax.collections:
-        coll.set_alpha(1)
 
 plt.tight_layout()
 save_path = f"{save_stem}.png"

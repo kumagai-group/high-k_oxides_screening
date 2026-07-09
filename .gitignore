@@ -27,3 +27,7 @@ database/matnames_8717.pt
 
 *__pycache__*
 *.pyc
+
+# local-only figures (not for GitHub)
+plot_map_eg_vs_totd_top5.py
+results_screening/map_eg_ddh_vs_totd_pbesol_top5.png
